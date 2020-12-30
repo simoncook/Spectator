@@ -1,4 +1,4 @@
-location,Latest date,Total doses,Doses per 100 population
+,Latest data,Total doses,Doses per 100 population
 Austria,2020-12-30,6000,0.07
 Bahrain,2020-12-29,56041,3.29
 Bulgaria,2020-12-29,1719,0.02
@@ -27,4 +27,3 @@ Scotland,2020-12-20,56676,1.04
 United Kingdom,2020-12-24,800000,1.18
 United States,2020-12-28,2127143,0.64
 Wales,2020-12-20,22595,0.72
-World,2020-12-30,4910588,0.06
