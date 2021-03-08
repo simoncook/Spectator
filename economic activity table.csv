@@ -1,28 +1,44 @@
 ,OECD Weekly Tracker of GDP,Positive
-:ar: Argentina,-1.72617553564432,False
-:au: Australia,0.5396931827831688,True
-:br: Brazil,1.605266491099986,True
-:ca: Canada,-2.840916833861297,False
-:cl: Chile,1.03571391539245,True
-:dk: Denmark,-3.974901406986305,False
-:fr: France,-3.615705284271242,False
-:de: Germany,-8.296284881749747,False
-:in: India,2.817406201173393,True
-:id: Indonesia,-0.7476005149172398,False
-:ie: Ireland,-1.253142274004276,False
-:il: Israel,1.216347952110007,True
-:it: Italy,-3.218830069342768,False
-:jp: Japan,-1.48252861707063,False
-:mx: Mexico,-1.531516560777667,False
-:nl: Netherlands,-3.440356143387257,False
-:nz: New Zealand,2.696926539813197,True
-:no: Norway,-2.702835144940771,False
-:pl: Poland,-1.891728472774979,False
-:ru: Russia,1.818687637211981,True
-:za: South Africa,-2.52515806575903,False
-:es: Spain,-6.635856998259691,False
-:se: Sweden,-2.335142464408174,False
-:ch: Switzerland,-3.24769264398942,False
-:tr: Turkey,-0.2394134571500702,False
-:gb: United Kingdom,-8.425305727200307,False
-:us: United States,-1.262092751812633,False
+:ar: Argentina,-5.514237224366097,False
+:au: Australia,2.193139285834333,True
+:at: Austria,-3.22736793464719,False
+:be: Belgium,-5.46526122741563,False
+:br: Brazil,-0.6975985561374602,False
+:bg: Bulgaria,-0.2826205235327627,False
+:ca: Canada,-3.817130365179762,False
+:cl: Chile,-3.98760182498601,False
+:co: Colombia,-0.7357089502385478,False
+:dk: Denmark,-3.973222507095609,False
+:ee: Estonia,2.809115838887779,True
+:fi: Finland,-1.027864597763803,False
+:fr: France,-2.378331801153088,False
+:de: Germany,-6.353353313499929,False
+:gr: Greece,0.4072067398940687,True
+:hu: Hungary,-4.719176787100893,False
+:is: Iceland,7.098451896733738,True
+:in: India,2.086671078248311,True
+:id: Indonesia,-3.759555577903871,False
+:ie: Ireland,-0.8443219025500561,False
+:il: Israel,5.362912311984417,True
+:it: Italy,2.979987614414243,True
+:jp: Japan,1.787717911143986,True
+:kr: South Korea,2.230391434695735,True
+:lv: Latvia,-3.593484422732715,False
+:lt: Lithuania,-0.1336725209941073,False
+:lu: Luxembourg,3.173802860512055,True
+:mx: Mexico,-3.451603899715501,False
+:nl: Netherlands,-2.730229751743374,False
+:nz: New Zealand,1.496941043037928,True
+:no: Norway,-2.046178401675397,False
+:pl: Poland,-1.426087521713898,False
+:pt: Portugal,-9.11812454967238,False
+:ro: Romania,-1.108359524746149,False
+:ru: Russia,3.392520510172465,True
+:si: Slovenia,-2.485259689247545,False
+:za: South Africa,-0.5465425323517491,False
+:es: Spain,-5.485523877359573,False
+:se: Sweden,-2.699947192883944,False
+:ch: Switzerland,-2.016769293480424,False
+:tr: Turkey,-4.643500740476916,False
+:gb: United Kingdom,-5.7034484952299,False
+:us: United States,-1.455943954470828,False
