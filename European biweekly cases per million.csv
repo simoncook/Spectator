@@ -1,7 +1,5 @@
 ,Cases per million
-:al: Albania,4396.066
 :at: Austria,3297.211
-:by: Belarus,1820.131
 :be: Belgium,2883.4429999999998
 :bg: Bulgaria,3402.488
 :hr: Croatia,1600.139
@@ -14,13 +12,10 @@
 :de: Germany,1362.3139999999999
 :gr: Greece,2429.038
 :hu: Hungary,6520.882
-:is: Iceland,41.026
 :ie: Ireland,1652.964
 :it: Italy,4271.125
 :lv: Latvia,4671.822
 :lt: Lithuania,2998.577
-:lu: Luxembourg,4016.1279999999997
-:mt: Malta,7940.408
 :nl: Netherlands,3737.116
 :no: Norway,1182.386
 :pl: Poland,4125.786
@@ -31,6 +26,4 @@
 :si: Slovenia,5147.355
 :es: Spain,339.858
 :se: Sweden,5326.6230000000005
-:ch: Switzerland,1677.139
-:ua: Ukraine,2253.431
 :gb: United Kingdom,1525.911
