@@ -1,0 +1,16 @@
+Country,Product,Total doses distributed to country,Total doses administered,Unused doses
+France,Pfizer/BioNTech,7329855.0,6548153,781702.0
+France,AstraZeneca,2851600.0,1569310,1282290.0
+France,Moderna,550900.0,511613,39287.0
+Germany,Pfizer/BioNTech,9835995.0,8539071,1296924.0
+Germany,AstraZeneca,3427200.0,1933860,1493340.0
+Germany,Moderna,1111200.0,413458,697742.0
+Italy,Pfizer/BioNTech,4546620.0,6162676,0.0
+Italy,AstraZeneca,1512000.0,1230007,281993.0
+Italy,Moderna,315600.0,341689,0.0
+Poland,Pfizer/BioNTech,4684680.0,4247283,437397.0
+Poland,AstraZeneca,1305600.0,780554,525046.0
+Poland,Moderna,520000.0,313552,206448.0
+Spain,Pfizer/BioNTech,5064150.0,5013886,50264.0
+Spain,AstraZeneca,1814100.0,989708,824392.0
+Spain,Moderna,650400.0,328897,321503.0
