@@ -1,984 +1,984 @@
 areaCode,areaName,Cases last 7 days,not spot,number weeks not-spot
-E02000001,City of London,4.0,False,
-E02000002,Marks Gate,7.0,False,
-E02000003,Chadwell Heath East,4.0,False,
-E02000004,Eastbrookend,,True,1.0
-E02000005,Becontree Heath,5.0,False,
-E02000007,Central Park & Frizlands Lane,3.0,False,
-E02000008,Becontree East,9.0,False,
-E02000009,Becontree West,8.0,False,
-E02000010,Dagenham North,3.0,False,
-E02000011,Dagenham Eastbrook,3.0,False,
-E02000012,Longbridge & Barking Park,20.0,False,
-E02000013,Becontree South,6.0,False,
-E02000014,Dagenham Central,6.0,False,
-E02000015,Old Dagenham Park & Village,6.0,False,
-E02000016,Barking Central,16.0,False,
-E02000017,Barking East,9.0,False,
-E02000018,Mayesbrook Park & Rippleside,6.0,False,
-E02000019,Goresbrook & Scrattons Farm,6.0,False,
-E02000020,Creekmouth & Barking Riverside,9.0,False,
-E02000021,Rylands Estate & Dagenham Dock,3.0,False,
-E02000022,Gascoigne Estate & Roding Riverside,,True,1.0
-E02000023,Thames View,,True,1.0
-E02000024,High Barnet & Hadley,,True,1.0
-E02000025,Hadley Wood,,True,4.0
-E02000026,Oak Hill,,True,4.0
-E02000027,Ducks Island & Underhill,,True,1.0
-E02000028,New Barnet West,3.0,False,
-E02000029,New Barnet Town & East Barnet,,True,4.0
-E02000030,Totteridge & Barnet Gate,6.0,False,
-E02000031,Oakleigh Park,,True,1.0
-E02000032,Osidge,,True,6.0
-E02000033,Brunswick Park Road,3.0,False,
-E02000034,Whetstone East,,True,1.0
-E02000035,Woodside Park,,True,1.0
-E02000036,Edgware East,,True,3.0
-E02000037,Edgware Park,,True,2.0
-E02000038,Friern Barnet,,True,1.0
-E02000039,Mill Hill Park,,True,2.0
-E02000040,Mill Hill East,3.0,False,
-E02000041,Edgware Central,,True,2.0
-E02000042,North Finchley,,True,1.0
-E02000043,West Finchley,5.0,False,
-E02000044,Mill Hill Broadway,,True,1.0
-E02000045,Colney Hatch,3.0,False,
-E02000046,Church End,,True,1.0
-E02000047,Burnt Oak & Watling Park,4.0,False,
-E02000048,Copthall & Downage,4.0,False,
-E02000049,Grahame Park,,True,3.0
-E02000050,Fallow Corner,,True,1.0
-E02000051,Finchley Central,,True,4.0
-E02000052,East Finchley,,True,2.0
-E02000053,Colindale,7.0,False,
-E02000054,North Hendon & Sunny Hill,3.0,False,
-E02000055,Hendon Central,10.0,False,
-E02000056,Hampstead Garden Suburb,,True,6.0
-E02000057,Hendon Park,,True,2.0
-E02000058,Temple Fortune,3.0,False,
-E02000059,West Hendon,,True,1.0
-E02000060,Golders Green North,,True,2.0
-E02000061,Golders Green South,,True,1.0
-E02000062,Brent Cross & Staples Corner,7.0,False,
-E02000063,North Cricklewood,6.0,False,
-E02000064,Childs Hill,3.0,False,
-E02000065,Crossway Park,6.0,False,
-E02000066,South Thamesmead,3.0,False,
-E02000067,Belvedere & Lessness Heath,7.0,False,
-E02000068,Erith East,14.0,False,
-E02000069,Erith West,9.0,False,
-E02000070,Lesnes Abbey,5.0,False,
-E02000071,Northumberland Heath,10.0,False,
-E02000072,Slade Green & Crayford Marshes,12.0,False,
-E02000073,Bostall,,True,3.0
-E02000074,Lesney Farm & Colyers East,10.0,False,
-E02000075,Bursted Wood,3.0,False,
-E02000077,St Michael's,,True,4.0
-E02000078,Barnehurst North,4.0,False,
-E02000079,Bexleyheath Broadway,,True,1.0
-E02000080,Welling,,True,2.0
-E02000081,Barnehurst South,4.0,False,
-E02000082,Falconwood,,True,1.0
-E02000083,Crayford,16.0,False,
-E02000084,Danson Park,,True,2.0
-E02000085,Blackfen,,True,4.0
-E02000086,Lamorbey,,True,3.0
-E02000087,Bexley Village,,True,5.0
-E02000088,Albany Park,,True,2.0
-E02000089,Longlands & Halfway,,True,5.0
-E02000090,Sidcup East,,True,3.0
-E02000091,Sidcup West,,True,4.0
-E02000092,Foots Cray Meadows,,True,1.0
-E02000093,Queensbury South,,True,1.0
-E02000094,Kingsbury East & Colindale,6.0,False,
-E02000095,Kingsbury West,8.0,False,
-E02000096,Kenton Woodcock Park,,True,2.0
-E02000097,Kingsbury South,6.0,False,
-E02000098,Barnhill The Avenue,9.0,False,
-E02000099,Preston Park & East Lane,7.0,False,
-E02000100,Northwick Park,10.0,False,
-E02000101,Forty Lane,3.0,False,
-E02000102,Welsh Harp,7.0,False,
-E02000103,Dollis Hill,3.0,False,
-E02000104,Wembley North,4.0,False,
-E02000105,Sudbury East,7.0,False,
-E02000106,Neasden,6.0,False,
-E02000107,Cricklewood Anson Road,12.0,False,
-E02000108,Sudbury West,6.0,False,
-E02000109,Tokyngton,7.0,False,
-E02000110,Dudden Hill,,True,1.0
-E02000111,Wembley West,12.0,False,
-E02000112,Wembley East,11.0,False,
-E02000113,St Raphaels,3.0,False,
-E02000114,Willesden Green,3.0,False,
-E02000115,Brondesbury,,True,1.0
-E02000116,Roundwood Park,3.0,False,
-E02000117,Church End,,True,1.0
-E02000118,Alperton East,5.0,False,
-E02000119,Stonebridge,5.0,False,
-E02000120,Kilburn West,6.0,False,
-E02000121,Alperton West,8.0,False,
-E02000122,Brondesbury Park,,True,1.0
-E02000123,Harlesden,3.0,False,
-E02000124,Queens Park,4.0,False,
-E02000125,Kensal Green,,True,3.0
-E02000126,Kilburn Park,4.0,False,
-E02000127,Mottingham,5.0,False,
-E02000128,Chislehurst North,,True,4.0
-E02000130,Penge East,,True,3.0
-E02000131,Crystal Palace Park,3.0,False,
-E02000132,New Beckenham,,True,4.0
-E02000133,Chislehurst West & Elmstead,,True,2.0
-E02000134,Bromley North & Sundridge,,True,1.0
-E02000135,Anerley North & Penge West,,True,1.0
-E02000136,Chislehurst East & Hoblingwell Wood,,True,5.0
-E02000137,Shortlands Bromley Road,,True,4.0
-E02000138,Beckenham East & Kelsey Park,,True,2.0
-E02000139,Clock House & Cator Park,,True,1.0
-E02000140,St Mary Cray North,3.0,False,
-E02000141,Anerley South,,True,4.0
-E02000142,Widmore,3.0,False,
-E02000144,Bromley South,3.0,False,
-E02000145,St Mary Cray East,5.0,False,
-E02000146,Bickley West,,True,1.0
-E02000147,Langley Park,,True,4.0
-E02000148,Bickley East,3.0,False,
-E02000149,St Mary Cray South,3.0,False,
-E02000150,Eden Park & Bethlem,,True,3.0
-E02000151,Petts Wood,,True,6.0
-E02000152,Bromley Common,,True,2.0
-E02000153,Hayes North,4.0,False,
-E02000154,Orpington West,3.0,False,
-E02000155,Orpington East,,True,2.0
-E02000156,West Wickham,3.0,False,
-E02000157,Crofton,3.0,False,
-E02000158,Goddington,4.0,False,
-E02000159,Keston,,True,1.0
-E02000160,Hayes South & Coney Hall,7.0,False,
-E02000161,Orpington South,3.0,False,
-E02000162,Farnborough,,True,1.0
-E02000163,Chelsfield & Green Street Green,5.0,False,
-E02000165,Biggin Hill West,,True,3.0
-E02000166,Highgate West,,True,2.0
-E02000167,Hampstead Town,,True,3.0
-E02000168,Tufnell Park West,,True,3.0
-E02000169,Frognal,,True,1.0
-E02000170,Fortune Green,,True,2.0
-E02000171,Mansfield Road & Park Hill Road,,True,4.0
-E02000172,Kentish Town West,,True,1.0
-E02000173,Fitzjohns & Royal Free,,True,2.0
-E02000174,Kentish Town East,,True,4.0
-E02000175,West Hampstead,3.0,False,
-E02000176,Belsize Park,,True,6.0
-E02000177,Chalk Farm,4.0,False,
-E02000178,Kilburn Grange,7.0,False,
-E02000179,Adelaide Road,,True,5.0
-E02000180,Camden Road South,3.0,False,
-E02000181,South Hampstead,4.0,False,
-E02000182,Swiss Cottage,,True,1.0
-E02000183,Primrose Hill,,True,4.0
-E02000184,Camden Street & Elm Village,4.0,False,
-E02000185,Kilburn East,5.0,False,
-E02000186,Camden Town & Mornington Crescent,,True,2.0
-E02000187,Somers Town,7.0,False,
-E02000188,Euston,3.0,False,
-E02000189,Gray's Inn Road,,True,1.0
-E02000190,Bloomsbury East,,True,4.0
-E02000191,Fitzrovia East & Bloomsbury West,,True,1.0
-E02000192,Hatton Garden & Theobalds Road,3.0,False,
-E02000193,"Holborn, St Giles & Bloomsbury South",,True,3.0
-E02000194,Crystal Palace Triangle,3.0,False,
-E02000195,Upper Norwood,4.0,False,
-E02000196,Norbury East,3.0,False,
-E02000197,Norbury West,9.0,False,
-E02000198,Thornton Heath North West,,True,2.0
-E02000199,Thornton Heath North East,,True,1.0
-E02000200,South Norwood Hill,,True,1.0
-E02000201,South Norwood Central,,True,1.0
-E02000202,Thornton Heath West,,True,2.0
-E02000203,Thornton Heath Central,,True,1.0
-E02000204,West Thornton North,,True,1.0
-E02000206,Selhurst North,4.0,False,
-E02000207,Woodside & Ashburton,,True,2.0
-E02000208,University Hospital & Queen's Road,3.0,False,
-E02000209,West Thornton South & Ampere Way,3.0,False,
-E02000210,Addiscombe North,4.0,False,
-E02000211,Monks Orchard,3.0,False,
-E02000212,Broad Green & Waddon Marsh,,True,1.0
-E02000213,Selhurst South & West Croydon,3.0,False,
-E02000214,Addiscombe East,,True,6.0
-E02000215,Addiscombe West,4.0,False,
-E02000216,Park Hill & Lloyd Park,,True,3.0
-E02000217,Croydon Minster & Waddon North,,True,2.0
-E02000218,Shirley East,3.0,False,
-E02000219,Shirley West,,True,4.0
-E02000220,Central Croydon,,True,2.0
-E02000221,Waddon South,,True,2.0
-E02000222,Croham,3.0,False,
-E02000223,New Addington North,,True,1.0
-E02000224,Purley North,,True,1.0
-E02000225,New Addington Central,,True,2.0
-E02000226,Selsdon,,True,3.0
-E02000227,Forestdale,3.0,False,
-E02000228,Sanderstead,,True,3.0
-E02000229,New Addington South,3.0,False,
-E02000230,Purley Central,,True,1.0
-E02000231,Woodcote,3.0,False,
-E02000232,Selsdon Park & Hamsey Green,,True,3.0
-E02000233,Kenley North,3.0,False,
-E02000234,Coulsdon,,True,3.0
-E02000235,Kenley South,,True,3.0
-E02000236,Woodmansterne,,True,3.0
-E02000237,Old Coulsdon,4.0,False,
-E02000238,Whitton Avenue West,3.0,False,
-E02000239,Horsenden,6.0,False,
-E02000240,Northolt West,4.0,False,
-E02000241,Northolt East,3.0,False,
-E02000242,Bilton Road,,True,1.0
-E02000243,Greenford North,3.0,False,
-E02000244,Perivale,,True,1.0
-E02000245,Northolt South,4.0,False,
-E02000246,Kingshill Avenue,8.0,False,
-E02000247,Greenford West,4.0,False,
-E02000248,Hanger Hill East,5.0,False,
-E02000249,Greenford South,,True,1.0
-E02000250,Pitshanger,8.0,False,
-E02000251,Greenford Ravenor Park,4.0,False,
-E02000252,North Acton,8.0,False,
-E02000253,Cuckoo Park,9.0,False,
-E02000254,Southall North,6.0,False,
-E02000255,Drayton Green & Cleveland,8.0,False,
-E02000256,Ealing Broadway West,13.0,False,
-E02000257,Ealing Broadway East,9.0,False,
-E02000258,Acton Noel Road & Lunton Road,,True,1.0
-E02000259,Brent Valley,,True,1.0
-E02000260,Southall Park,4.0,False,
-E02000261,East Acton,12.0,False,
-E02000262,Acton Central,4.0,False,
-E02000263,Southall West,4.0,False,
-E02000264,Ealing Common & Twyford Ave,3.0,False,
-E02000265,West Ealing,3.0,False,
-E02000266,Norwood Green North & Windmill Park,6.0,False,
-E02000267,Hanwell,,True,1.0
-E02000268,St Mary's,,True,3.0
-E02000269,Northfields,8.0,False,
-E02000270,South Acton,6.0,False,
-E02000271,Bedford Park,3.0,False,
-E02000272,Elthorne Park,,True,3.0
-E02000274,Southall Green,8.0,False,
-E02000275,Norwood Green South,3.0,False,
-E02000276,South Ealing,,True,2.0
-E02000277,Bullsmoor & Freezywater,4.0,False,
-E02000278,Turkey Street,,True,1.0
-E02000279,Enfield Lock,,True,1.0
-E02000280,Chase & Crews Hill,4.0,False,
-E02000281,Carterhatch & Forty Hall,,True,2.0
-E02000282,Enfield Wash,4.0,False,
-E02000283,Brimsdown Avenue,,True,4.0
-E02000284,Chase Side,,True,5.0
-E02000285,Enfield Town North,,True,1.0
-E02000286,Chase Farm & The Ridgeway,3.0,False,
-E02000287,Cockfosters & Hadley Wood,3.0,False,
-E02000288,Southbury East,4.0,False,
-E02000289,World's End,,True,4.0
-E02000290,Brimsdown & Ponders End,,True,1.0
-E02000291,Enfield Town South & Bush Hill Park,3.0,False,
-E02000292,Southbury West,3.0,False,
-E02000293,Grange Park,,True,4.0
-E02000294,Ponders End South,,True,1.0
-E02000295,Oakwood Park & Highlands,4.0,False,
-E02000296,Southgate,,True,1.0
-E02000297,Bury Street West & Village Road,8.0,False,
-E02000298,Winchmore Hill,,True,4.0
-E02000299,Lower Edmonton North,5.0,False,
-E02000300,Haslebury North,,True,1.0
-E02000301,Lower Edmonton South,5.0,False,
-E02000302,Palmers Green East,7.0,False,
-E02000303,Haslebury South,4.0,False,
-E02000304,Southgate Green,,True,2.0
-E02000305,Palmers Green West,7.0,False,
-E02000306,Edmonton Green,,True,4.0
-E02000307,Tatem Park,3.0,False,
-E02000308,New Southgate & Arnos Grove,,True,1.0
-E02000309,Upper Edmonton East & Meridian Water,8.0,False,
-E02000311,Bowes,,True,3.0
-E02000312,Broomfield Park,7.0,False,
-E02000313,Thamesmead Birchmere Park,,True,3.0
-E02000314,West Thamesmead,10.0,False,
-E02000315,Abbey Wood North,,True,1.0
-E02000316,"Woolwich Dockyard, Arsenal & Charlton Riverside",,True,1.0
-E02000317,Woolwich West,8.0,False,
-E02000318,Plumstead High Street,11.0,False,
-E02000319,Plumstead Common & Riverside,,True,1.0
-E02000320,Abbey Wood South,,True,1.0
-E02000321,Woolwich Glyndon,,True,2.0
-E02000323,Woolwich South,6.0,False,
-E02000324,Charlton Village,6.0,False,
-E02000326,Charlton Slopes,11.0,False,
-E02000327,Woolwich Common,4.0,False,
-E02000328,Westcombe Park & Maze Hill,5.0,False,
-E02000329,Plumstead South,,True,1.0
-E02000331,Hornfair Park,,True,1.0
-E02000332,Shooters Hill,3.0,False,
-E02000333,Blackheath Standard & Village,3.0,False,
-E02000334,Kidbrooke North,9.0,False,
-E02000335,Eltham North,,True,3.0
-E02000337,Eltham West,4.0,False,
-E02000339,Eltham Park,,True,5.0
-E02000340,Eltham South,7.0,False,
-E02000341,Middlepark & Horn Park,,True,3.0
-E02000342,Avery Hill,,True,1.0
-E02000343,Mottingham East,4.0,False,
-E02000344,New Eltham,4.0,False,
-E02000345,Stamford Hill North,,True,3.0
-E02000346,Woodberry Down & Manor House,,True,4.0
-E02000347,Stamford Hill West,3.0,False,
-E02000348,Stamford Hill South,4.0,False,
-E02000350,Stoke Newington East & Cazenove,,True,2.0
-E02000351,Brownswood,3.0,False,
-E02000352,Clissold North,,True,2.0
-E02000353,Stoke Newington North,,True,3.0
-E02000354,Hackney Downs,,True,1.0
-E02000355,Lower Clapton,,True,3.0
-E02000356,Clissold South,,True,4.0
-E02000357,Hackney Marshes,,True,1.0
-E02000358,Stoke Newington South,,True,1.0
-E02000359,Homerton North,3.0,False,
-E02000360,Amhurst Road & Pembury Estate,7.0,False,
-E02000361,Hackney Central,,True,3.0
-E02000362,Hackney Wick,,True,4.0
-E02000363,Homerton South,3.0,False,
-E02000364,Dalston East,,True,4.0
-E02000365,Dalston Kingsland & De Beauvoir,4.0,False,
-E02000366,South Hackney,,True,2.0
-E02000367,London Fields & Mare Street,7.0,False,
-E02000368,Haggerston East,3.0,False,
-E02000369,Haggerston West & Kingsland Basin,3.0,False,
-E02000370,Hoxton & Wenlock,9.0,False,
-E02000371,Shoreditch,4.0,False,
-E02000372,Old Oak & Wormwood,3.0,False,
-E02000373,White City,3.0,False,
-E02000374,Wormholt Road,10.0,False,
-E02000375,Shepherd's Bush North,,True,3.0
-E02000376,Shepherd's Bush West,,True,1.0
-E02000377,Askew,7.0,False,
-E02000378,Shepherd's Bush South,,True,2.0
-E02000379,Ravenscourt Park North,5.0,False,
-E02000380,Brackenbury,,True,4.0
-E02000381,Brook Green,6.0,False,
-E02000382,Ravenscourt Park South,8.0,False,
-E02000383,West Kensington,,True,1.0
-E02000384,Hammersmith Broadway,3.0,False,
-E02000385,Barons Court,,True,1.0
-E02000386,North End,3.0,False,
-E02000387,Lillie Road & Greyhound Road,,True,3.0
-E02000388,Fulham Broadway,,True,2.0
-E02000389,Fulham Reach,5.0,False,
-E02000390,Fulham Aintree,,True,3.0
-E02000391,Parsons Green East & Eel Brook Common,,True,1.0
-E02000392,Parsons Green West,,True,4.0
-E02000393,Munster,,True,1.0
-E02000394,Sands End & Chelsea Harbour,3.0,False,
-E02000395,Fulham Palace & Hurlingham Park,,True,4.0
-E02000396,South Park,4.0,False,
-E02000397,Bowes Park,4.0,False,
-E02000398,Northumberland Park,,True,1.0
-E02000400,Bounds Green,,True,5.0
-E02000401,Roundway,,True,2.0
-E02000402,Tottenham Bruce Castle Park,,True,2.0
-E02000403,Wood Green North,,True,3.0
-E02000404,Scotch Estate,,True,1.0
-E02000405,Alexandra Park,,True,7.0
-E02000406,Noel Park,,True,1.0
-E02000407,Bruce Grove North,,True,4.0
-E02000408,Tottenham North West,,True,2.0
-E02000409,Lordship Lane & Broadwater Farm,4.0,False,
-E02000410,Muswell Hill North,3.0,False,
-E02000411,Tottenham Lea Valley,4.0,False,
-E02000412,Wood Green South,,True,1.0
-E02000413,Fortis Green & Coldfall,,True,4.0
-E02000414,Bruce Grove South,9.0,False,
-E02000415,Downhills Park,,True,3.0
-E02000416,Hornsey East,3.0,False,
-E02000417,Muswell Hill South,,True,1.0
-E02000418,Hornsey West,,True,2.0
-E02000419,Harringay Ladder North,4.0,False,
-E02000420,Tottenham Green West,,True,2.0
-E02000421,Tottenham Green East,3.0,False,
-E02000422,West Green & St Ann's,,True,3.0
-E02000423,Harringay East,,True,1.0
-E02000424,Hornsey Vale,,True,6.0
-E02000425,South Tottenham,,True,4.0
-E02000426,Highgate Wood,,True,7.0
-E02000427,Harringay Ladder South,,True,3.0
-E02000428,Harringay Warehouse District & Vartry,5.0,False,
-E02000429,Crouch End West,,True,1.0
-E02000430,Crouch End East,,True,4.0
-E02000431,Highgate East,,True,4.0
-E02000432,Stroud Green,3.0,False,
-E02000433,Stanmore Park,,True,1.0
-E02000434,Canons Park,4.0,False,
-E02000435,Stanmore Uxbridge Road,4.0,False,
-E02000436,Hatch End North,,True,3.0
-E02000437,Harrow Weald,4.0,False,
-E02000438,Hatch End South,,True,1.0
-E02000439,Edgware West,,True,1.0
-E02000440,Belmont,,True,1.0
-E02000441,Pinner Green,7.0,False,
-E02000442,Queensbury East,3.0,False,
-E02000443,Wealdstone North,6.0,False,
-E02000444,Queensbury West,3.0,False,
-E02000445,Wealdstone South,6.0,False,
-E02000447,Headstone Lane,9.0,False,
-E02000448,Pinner Central,,True,1.0
-E02000449,Kenton East,3.0,False,
-E02000451,North Harrow,5.0,False,
-E02000452,Greenhill North,4.0,False,
-E02000453,Pinner Road,6.0,False,
-E02000454,Pinner South,3.0,False,
-E02000455,Greenhill South,7.0,False,
-E02000456,West Harrow,3.0,False,
-E02000457,Rayners Lane North,5.0,False,
-E02000459,South Harrow,4.0,False,
-E02000460,Newton Farm,8.0,False,
-E02000461,Harrow-on-the-Hill,,True,1.0
-E02000462,Alexandra Park,4.0,False,
-E02000463,Earlsmead,7.0,False,
-E02000464,Dagnam Park & Noak Hill,4.0,False,
-E02000465,Petersfield Avenue & Duck Wood,5.0,False,
-E02000466,Havering-atte-Bower & Chase Cross,3.0,False,
-E02000467,Harold Hill East,3.0,False,
-E02000468,Collier Row & Park Farm,5.0,False,
-E02000469,Harold Hill West,6.0,False,
-E02000470,Harold Park & Harold Wood,4.0,False,
-E02000471,Rise Park,4.0,False,
-E02000472,Romford North,3.0,False,
-E02000473,Ardleigh Green,3.0,False,
-E02000474,Romford North West,,True,3.0
-E02000475,Gidea Park,4.0,False,
-E02000476,Central Romford,,True,1.0
-E02000477,Romford East,,True,1.0
-E02000478,Emerson Park,,True,7.0
-E02000479,Romford South,3.0,False,
-E02000480,Rush Green,3.0,False,
-E02000481,Cranham East,,True,1.0
-E02000482,Upminster North & Cranham West,,True,2.0
-E02000483,Hornchurch,,True,3.0
-E02000484,Hylands,,True,1.0
-E02000485,Upminster Bridge,,True,1.0
-E02000486,Elm Park East,,True,1.0
-E02000487,Upminster South & Corbets Tey,,True,2.0
-E02000488,Hacton,,True,4.0
-E02000489,Elm Park West,3.0,False,
-E02000490,South Hornchurch,,True,1.0
-E02000491,Hornchurch Marshes,,True,1.0
-E02000492,Rainham East & Wennington,7.0,False,
-E02000493,Rainham West,,True,5.0
-E02000494,Ducks Hill,,True,5.0
-E02000495,Northwood,8.0,False,
-E02000496,Harefield,,True,3.0
-E02000497,Northwood Hills,,True,1.0
-E02000498,West Ruislip North,,True,1.0
-E02000499,Eastcote,3.0,False,
-E02000500,Ruislip,,True,1.0
-E02000501,Ruislip Manor,5.0,False,
-E02000502,West Ruislip South,19.0,False,
-E02000503,Ruislip Gardens,8.0,False,
-E02000504,Ickenham,,True,1.0
-E02000506,Uxbridge Common & Swakeleys,,True,1.0
-E02000507,Hillingdon North East,11.0,False,
-E02000508,Uxbridge Central & Brunel,5.0,False,
-E02000509,Uxbridge West,4.0,False,
-E02000510,Hillingdon South,6.0,False,
-E02000511,Charville,6.0,False,
-E02000512,Hillingdon Heath,6.0,False,
-E02000513,Yeading North,4.0,False,
-E02000514,Yeading West,6.0,False,
-E02000515,Yiewsley West,3.0,False,
-E02000516,Yeading Brookside,4.0,False,
-E02000517,Hayes End,10.0,False,
-E02000518,Yiewsley East,6.0,False,
-E02000519,Hayes Town North,,True,1.0
-E02000520,Hayes Town & Lake Farm,5.0,False,
-E02000521,West Drayton East,8.0,False,
-E02000522,West Drayton West,,True,1.0
-E02000523,Hayes South,8.0,False,
-E02000524,"Heathrow, Hardmonsworth & Sipson",13.0,False,
-E02000525,Harlington & Cranford Cross,14.0,False,
-E02000526,Chiswick North East,,True,3.0
-E02000528,Brentford East,7.0,False,
-E02000529,Heston North,9.0,False,
-E02000530,North Hyde & North Cranford,14.0,False,
-E02000531,Brentford Central,,True,1.0
-E02000532,Chiswick South East,,True,2.0
-E02000533,Chiswick South West,5.0,False,
-E02000534,Brentford West & Osterley Park,3.0,False,
-E02000535,Heston West,11.0,False,
-E02000536,Heston Central & Lampton West,4.0,False,
-E02000537,Osterley & Lampton East,4.0,False,
-E02000538,Cranford,8.0,False,
-E02000539,Syon Green,3.0,False,
-E02000540,Spring Grove,6.0,False,
-E02000541,Hounslow Meadows,4.0,False,
-E02000542,Hounslow West,12.0,False,
-E02000543,Hounslow High Street,18.0,False,
-E02000544,Hounslow East,9.0,False,
-E02000545,Isleworth & Ivybridge,9.0,False,
-E02000546,Hounslow Heath,7.0,False,
-E02000547,North Feltham & Hatton,9.0,False,
-E02000548,Bedfont,10.0,False,
-E02000549,Feltham East,8.0,False,
-E02000550,Feltham Central,11.0,False,
-E02000551,Hanworth North,4.0,False,
-E02000552,Lower Feltham,5.0,False,
-E02000553,Hanworth South,4.0,False,
-E02000554,Highcroft & Holly Park,,True,1.0
-E02000555,Archway East,6.0,False,
-E02000556,Tollington,4.0,False,
-E02000557,Archway West,,True,2.0
-E02000558,Finsbury Park West,3.0,False,
-E02000559,Gillespie Road,5.0,False,
-E02000560,Holloway Nag's Head,,True,3.0
-E02000561,Tufnell Park East,10.0,False,
-E02000562,Highbury,,True,1.0
-E02000563,Hilldrop,3.0,False,
-E02000564,Lower Holloway,4.0,False,
-E02000565,Newington Green,,True,1.0
-E02000566,Highbury Fields,,True,3.0
-E02000567,Canonbury East & Mildmay Park,4.0,False,
-E02000568,Caledonian Road,6.0,False,
-E02000569,Islington North & Canonbury West,,True,4.0
-E02000570,Barnsbury East,,True,4.0
-E02000571,Islington East & Arlington,6.0,False,
-E02000572,Barnsbury West,,True,1.0
-E02000573,Angel,3.0,False,
-E02000574,King's Cross & Pentonville,4.0,False,
-E02000575,Clerkenwell,4.0,False,
-E02000576,Old Street & St Luke's,4.0,False,
-E02000577,Golborne & Swinbrook,,True,4.0
-E02000578,Ladbroke Grove,,True,4.0
-E02000579,North Kensington,4.0,False,
-E02000580,Portobello,,True,2.0
-E02000581,Notting Dale,,True,5.0
-E02000582,Notting Hill Gate,,True,4.0
-E02000583,Notting Hill West,,True,6.0
-E02000584,Notting Hill South,4.0,False,
-E02000585,Holland Park,4.0,False,
-E02000586,Queen's Gate,6.0,False,
-E02000587,Kensington Abingdon,,True,5.0
-E02000588,Hans Town,,True,2.0
-E02000589,Kensington Gardens,6.0,False,
-E02000590,Brompton,3.0,False,
-E02000591,Earl's Court,4.0,False,
-E02000592,South Kensington,,True,1.0
-E02000593,West Brompton,,True,2.0
-E02000594,Chelsea Manor & Royal Hospital,,True,3.0
-E02000595,Chelsea Riverside East,,True,4.0
-E02000596,Fulham Road,3.0,False,
-E02000597,Chelsea Riverside West,,True,2.0
-E02000598,Tudor Drive,,True,2.0
-E02000599,Kingston Vale & Coombe Hill,6.0,False,
-E02000600,Kingston Hill,,True,1.0
-E02000601,Kingston North,3.0,False,
-E02000602,Kingston East & Norbiton West,8.0,False,
-E02000603,Norbiton East,5.0,False,
-E02000604,New Malden East,,True,2.0
-E02000605,New Malden West,,True,1.0
-E02000606,Kingston Riverside,,True,1.0
-E02000607,Berrylands North,,True,1.0
-E02000608,Surbiton North,,True,1.0
-E02000609,Malden Manor,,True,1.0
-E02000610,Surbiton South,6.0,False,
-E02000611,Berrylands South,4.0,False,
-E02000612,Motspur Park,,True,2.0
-E02000613,Southborough,,True,1.0
-E02000614,Tolworth,3.0,False,
-E02000615,Hook,5.0,False,
-E02000616,Chessington North,3.0,False,
-E02000617,Chessington South & Malden Rushett,8.0,False,
-E02000619,Lambeth Walk & North Kennington,,True,2.0
-E02000620,Kennington West & Vauxhall North,,True,1.0
-E02000621,Vauxhall South,5.0,False,
-E02000622,Oval,,True,4.0
-E02000623,Stockwell North,4.0,False,
-E02000624,Stockwell East,,True,2.0
-E02000625,Stockwell West,6.0,False,
-E02000626,Loughborough Road,4.0,False,
-E02000627,Stockwell South,4.0,False,
-E02000628,Brixton North,8.0,False,
-E02000629,Clapham North,,True,1.0
-E02000630,Clapham Old Town,,True,5.0
-E02000631,Herne Hill East,,True,1.0
-E02000632,Acre Lane,,True,5.0
-E02000633,Brixton Central,,True,2.0
-E02000634,Clapham Common North,3.0,False,
-E02000635,Poets' Corner & Brockwell Park,,True,1.0
-E02000636,Clapham South,6.0,False,
-E02000637,Brixton Hill East,,True,3.0
-E02000638,Brixton Hilll West,4.0,False,
-E02000639,Clapham Park East & Streatham Hill North,4.0,False,
-E02000640,Clapham Park West,3.0,False,
-E02000641,Tulse Hill,,True,1.0
-E02000642,West Dulwich,,True,1.0
-E02000643,Streatham Hill,,True,2.0
-E02000644,Leigham Vale & Royal Circus,,True,2.0
-E02000645,West Norwood East,3.0,False,
-E02000646,Streatham Central,4.0,False,
-E02000647,West Norwood West & Streatham East,,True,1.0
-E02000648,West Norwood South,4.0,False,
-E02000649,Streatham Green,3.0,False,
-E02000650,Gipsy Hill,4.0,False,
-E02000651,Streatham Common,3.0,False,
-E02000652,Streatham Vale,3.0,False,
-E02000653,Silwood & Pepys,,True,1.0
-E02000654,Deptford North,,True,3.0
-E02000655,New Cross Gate,5.0,False,
-E02000657,New Cross South,6.0,False,
-E02000658,Telegraph Hill,6.0,False,
-E02000659,Blackheath West,,True,6.0
-E02000660,Brockley East & St Johns,3.0,False,
-E02000661,Blackheath Village,,True,5.0
-E02000662,Brockley West,,True,1.0
-E02000663,Loampit & Hilly Fields,3.0,False,
-E02000664,Lewisham Central & Park,3.0,False,
-E02000665,Manor House,3.0,False,
-E02000666,Ladywell,4.0,False,
-E02000667,Crofton Park,,True,1.0
-E02000668,Lee,,True,3.0
-E02000669,Hither Green,,True,2.0
-E02000670,Catford East & Mountsfield Park,5.0,False,
-E02000671,Honor Oak,,True,1.0
-E02000672,Catford Bridge,5.0,False,
-E02000673,Forest Hill West,,True,6.0
-E02000674,Corbett Estate,4.0,False,
-E02000675,Grove Park & Lee South,4.0,False,
-E02000676,Forest Hill East,,True,4.0
-E02000677,Culverley Green,,True,2.0
-E02000678,Further Green,,True,5.0
-E02000679,Perry Vale,,True,4.0
-E02000680,Upper Sydenham,,True,2.0
-E02000681,Bellingham & Perry Hill,3.0,False,
-E02000682,Forster Park & Southend,,True,2.0
-E02000683,Chinbrook,,True,5.0
-E02000685,Sydenham Wells,,True,3.0
-E02000686,Beckenham Hill,,True,1.0
-E02000687,Lower Sydenham,3.0,False,
-E02000689,Wimbledon Park & Durnsford Road,3.0,False,
-E02000690,Wimbledon Common,,True,1.0
-E02000691,Wimbledon Broadway North,8.0,False,
-E02000692,Wimbledon Hill,,True,3.0
-E02000693,Colliers Wood,,True,1.0
-E02000694,South Wimbledon,7.0,False,
-E02000695,Graveney,8.0,False,
-E02000696,Lavender Park,3.0,False,
-E02000697,Wimbledon Broadway South,9.0,False,
-E02000698,Cottenham Park,3.0,False,
-E02000699,Wimbledon Chase,,True,2.0
-E02000700,Merton Church Road & Phipps Bridge,5.0,False,
-E02000701,Mitcham East,3.0,False,
-E02000702,Lonesome,3.0,False,
-E02000703,Merton Park,4.0,False,
-E02000704,Raynes Park,,True,2.0
-E02000705,Rowan Road,3.0,False,
-E02000706,Mitcham West,5.0,False,
-E02000707,Pollards Hill,3.0,False,
-E02000708,West Barnes,5.0,False,
-E02000709,Cannon Hill,6.0,False,
-E02000710,Mitcham South,,True,1.0
-E02000711,Morden Central,10.0,False,
-E02000712,St Helier North,,True,1.0
-E02000713,Lower Morden,4.0,False,
-E02000714,Forest Gate North,3.0,False,
-E02000715,Little Ilford West,3.0,False,
-E02000716,Manor Park North,,True,3.0
-E02000717,Manor Park South,10.0,False,
-E02000718,Little Ilford East,,True,3.0
-E02000719,Forest Gate West,,True,1.0
-E02000720,Forest Gate East,,True,2.0
-E02000721,Forest Gate South,3.0,False,
-E02000722,Stratford East,,True,1.0
-E02000723,East Ham North,3.0,False,
-E02000724,Plashet East,5.0,False,
-E02000725,Stratford Central,5.0,False,
-E02000726,Olympic Park & Mill Meads,5.0,False,
-E02000727,Plashet West,3.0,False,
-E02000728,Wallend North,4.0,False,
-E02000729,West Ham Park,,True,2.0
-E02000730,Upton Park,3.0,False,
-E02000731,East Ham Central,,True,1.0
-E02000732,East Ham West,4.0,False,
-E02000733,West Ham & Stratford Park,3.0,False,
-E02000734,Plaistow North,,True,1.0
-E02000735,Plaistow North East,5.0,False,
-E02000736,Wallend South,,True,1.0
-E02000737,East Ham South,5.0,False,
-E02000738,East Ham South West,,True,2.0
-E02000739,Plaistow Park,,True,1.0
-E02000740,Canning Town North,4.0,False,
-E02000741,Plaistow South,,True,1.0
-E02000742,Lonsdale Avenue,,True,2.0
-E02000743,Canning Town Central,4.0,False,
-E02000744,Canning Town East,7.0,False,
-E02000745,Beckton North,3.0,False,
-E02000746,Beckton,3.0,False,
-E02000747,Canning Town South & Bow Creek,6.0,False,
-E02000748,Beckton Park,4.0,False,
-E02000749,Custom House,,True,2.0
-E02000750,Royal Docks & North Woolwich,4.0,False,
-E02000751,Woodford Wells,,True,4.0
-E02000752,Hainault East,12.0,False,
-E02000753,Hainault West,8.0,False,
-E02000754,Woodford Green,4.0,False,
-E02000755,Woodford Bridge,5.0,False,
-E02000756,Fairlop,3.0,False,
-E02000757,South Woodford High Road,5.0,False,
-E02000758,Clayhall North,,True,1.0
-E02000759,Roding,8.0,False,
-E02000760,Barkingside North,5.0,False,
-E02000762,Barkingside West,,True,1.0
-E02000763,Aldborough Hatch,3.0,False,
-E02000764,Snaresbrook,3.0,False,
-E02000765,Barkingside East,4.0,False,
-E02000767,Newbury Park,,True,2.0
-E02000768,Wanstead,,True,2.0
-E02000769,Chadwell Heath West,6.0,False,
-E02000770,Seven Kings Park,8.0,False,
-E02000772,Goodmayes North,6.0,False,
-E02000773,Ley Street,4.0,False,
-E02000774,Seven Kings Meads Lane,,True,1.0
-E02000776,Ilford North East,,True,1.0
-E02000777,Wanstead Flats,4.0,False,
-E02000779,Ilford North West,,True,1.0
-E02000780,Ilford South East,14.0,False,
-E02000781,South Park,6.0,False,
-E02000782,Ilford South West,5.0,False,
-E02000783,Loxford Park,15.0,False,
-E02000784,North Barnes,3.0,False,
-E02000785,Kew Gardens,3.0,False,
-E02000786,Mortlake & South Barnes,9.0,False,
-E02000787,North Sheen,,True,1.0
-E02000788,East Sheen North,6.0,False,
-E02000789,Queen's Road,5.0,False,
-E02000790,St Margarets,6.0,False,
-E02000791,Richmond Central,,True,5.0
-E02000792,Twickenham Marble Hill,,True,3.0
-E02000793,Whitton,,True,1.0
-E02000794,Twickenham North,,True,2.0
-E02000795,"Richmond Park, Sheen Gate & Petersham",,True,3.0
-E02000796,Heathfield,8.0,False,
-E02000797,Twickenham Town,,True,2.0
-E02000798,Twickenham West,,True,2.0
-E02000799,Strawberry Hill,,True,4.0
-E02000800,Ham,,True,4.0
-E02000801,Teddington North,3.0,False,
-E02000802,Hampton Hill,4.0,False,
-E02000803,Nursery Lands & Hampton North,3.0,False,
-E02000804,Teddington Central,,True,1.0
-E02000805,Hampton Wick & Teddington East,,True,2.0
-E02000806,Hampton Village,5.0,False,
-E02000807,Rotherhithe,,True,2.0
-E02000808,Borough & Southwark Street,3.0,False,
-E02000809,Bermondsey North,4.0,False,
-E02000810,Bermondsey East,,True,3.0
-E02000812,London Bridge & Bermondsey West,4.0,False,
-E02000813,Canada Water,,True,2.0
-E02000814,Surrey Quays,,True,3.0
-E02000815,Elephant & Castle,4.0,False,
-E02000816,South Bermondsey Central,5.0,False,
-E02000817,South Bermondsey East,,True,2.0
-E02000818,Walworth North,,True,2.0
-E02000819,South Bermondsey West,3.0,False,
-E02000820,Kennington East,3.0,False,
-E02000821,Burgess Park,3.0,False,
-E02000822,Walworth South,,True,1.0
-E02000823,Burgess Park West & John Ruskin Street,3.0,False,
-E02000824,Peckham Park Road,,True,1.0
-E02000825,Peckham North West,4.0,False,
-E02000826,Camberwell North,,True,1.0
-E02000827,Camberwell Green,3.0,False,
-E02000828,Peckham North,3.0,False,
-E02000829,Queens Road Peckham,,True,2.0
-E02000830,Camberwell South,,True,4.0
-E02000831,Peckham Rye,,True,1.0
-E02000832,Nunhead North,3.0,False,
-E02000833,North Dulwich,4.0,False,
-E02000834,Peckham Rye Common,3.0,False,
-E02000835,Nunhead South & Newlands,,True,5.0
-E02000836,East Dulwich,,True,4.0
-E02000837,Herne Hill & Dulwich Park,3.0,False,
-E02000838,Dulwich Hill,6.0,False,
-E02000839,Sydenham Hill,6.0,False,
-E02000840,Middleton Circle,4.0,False,
-E02000841,St Helier South,,True,2.0
-E02000842,Stonecot,4.0,False,
-E02000843,Hackbridge,7.0,False,
-E02000844,The Wrythe,,True,2.0
-E02000845,Worcester Park East,,True,1.0
-E02000846,Sutton North,,True,4.0
-E02000847,North Cheam West,,True,1.0
-E02000848,North Cheam East,,True,1.0
-E02000849,Wallington North,,True,3.0
-E02000850,Beddington,3.0,False,
-E02000851,Sutton Central,7.0,False,
-E02000852,Sutton East,,True,1.0
-E02000853,Sutton West,3.0,False,
-E02000854,Carshalton Village,,True,1.0
-E02000855,Cheam High Street,,True,2.0
-E02000856,Wallington South,3.0,False,
-E02000857,Sutton South West,,True,1.0
-E02000858,Roundshaw,7.0,False,
-E02000859,Carshalton on the Hill,,True,1.0
-E02000860,Sutton South & Shanklin,5.0,False,
-E02000861,Carshalton Beeches & Banstead Road,3.0,False,
-E02000863,"Orchard Hill, Woodcote Green & Clockhouse",,True,3.0
-E02000864,Bow North & Fish Island,,True,1.0
-E02000865,Bethnal Green North East,,True,1.0
-E02000866,Bow West,,True,4.0
-E02000867,Bow South,7.0,False,
-E02000868,Bethnal Green North West,,True,2.0
-E02000869,Columbia Road,,True,3.0
-E02000870,Bethnal Green East,,True,3.0
-E02000871,Bromley-by-Bow East,4.0,False,
-E02000872,Brick Lane North,,True,4.0
-E02000873,Mile End West,,True,2.0
-E02000874,Bethnal Green Central,,True,1.0
-E02000875,Bromley-by-Bow West,3.0,False,
-E02000876,Bethnal Green South,,True,2.0
-E02000877,Mile End East & Burdett Estate,12.0,False,
-E02000878,Spitalfields,5.0,False,
-E02000879,Stepney Green,,True,1.0
-E02000880,Whitechapel,4.0,False,
-E02000881,Poplar Leaside,4.0,False,
-E02000882,Limehouse North & Stepney East,,True,2.0
-E02000883,Poplar Central,4.0,False,
-E02000884,Aldgate,,True,1.0
-E02000885,Shadwell North,7.0,False,
-E02000886,Limehouse East,3.0,False,
-E02000887,Poplar West,5.0,False,
-E02000888,Shadwell Basin & Ratcliffe,,True,5.0
-E02000889,St George in the East & Wapping North,7.0,False,
-E02000890,Tower Hill & Wapping South,,True,4.0
-E02000891,Blackwall & Leamouth,7.0,False,
-E02000893,Mudchute,,True,1.0
-E02000894,Millwall South,3.0,False,
-E02000895,Chingford Green West,,True,4.0
-E02000896,Chingford Green East,4.0,False,
-E02000897,Friday Hill,,True,2.0
-E02000898,Larkswood,,True,2.0
-E02000899,Chingford Mount,,True,2.0
-E02000900,South Chingford,3.0,False,
-E02000901,Highams Park East,,True,4.0
-E02000902,Highams Park West,6.0,False,
-E02000903,Higham Hill,6.0,False,
-E02000904,Fulbourne Road & Walthamstow Forest,,True,1.0
-E02000905,Lloyd Park,,True,2.0
-E02000906,William Morris,3.0,False,
-E02000907,Wood Street,5.0,False,
-E02000908,Blackhorse Road,7.0,False,
-E02000909,Upper Walthamstow,,True,2.0
-E02000910,Walthamstow Central,5.0,False,
-E02000911,Walthamstow Market & South Grove,5.0,False,
-E02000912,Markhouse & St James Park,6.0,False,
-E02000913,Whipps Cross,7.0,False,
-E02000914,Baker's Arms,3.0,False,
-E02000915,Leytonstone North,,True,1.0
-E02000916,Lea Bridge,6.0,False,
-E02000917,Leyton North,,True,1.0
-E02000918,Leytonstone East,4.0,False,
-E02000919,Leyton East,7.0,False,
-E02000920,Leyton South,5.0,False,
-E02000921,Leytonstone South West,6.0,False,
-E02000922,Leytonstone South East,5.0,False,
-E02000923,Battersea Park,4.0,False,
-E02000924,Nine Elms & Patmore,5.0,False,
-E02000925,Battersea Latchmere,3.0,False,
-E02000926,St Mary's & Cotton Row,8.0,False,
-E02000927,Lavender Hill East,5.0,False,
-E02000928,Putney Embankment & Lower Common,,True,3.0
-E02000929,York Gardens,,True,1.0
-E02000930,Lavender Hill West & Little India,,True,2.0
-E02000931,Clapham Common West,,True,4.0
-E02000932,Putney Town & Wandsworth Park,4.0,False,
-E02000933,Putney West,,True,4.0
-E02000934,Clapham Junction & East Hill,5.0,False,
-E02000935,Roehampton North West,3.0,False,
-E02000936,East Putney,,True,2.0
-E02000937,Wandsworth Common,,True,1.0
-E02000938,Roehampton North East,7.0,False,
-E02000939,Nightingale Lane,3.0,False,
-E02000940,Wandsworth South,6.0,False,
-E02000941,Earlsfield North,7.0,False,
-E02000942,Southfields North,3.0,False,
-E02000943,Balham,,True,1.0
-E02000944,West Hill North,,True,1.0
-E02000945,Roehampton South & Putney Vale,4.0,False,
-E02000946,Earlsfield South,5.0,False,
-E02000947,Merton Road,3.0,False,
-E02000948,Tooting Bec Common,3.0,False,
-E02000949,Springfield,,True,2.0
-E02000950,West Hill South,3.0,False,
-E02000951,Tooting Bec West,,True,3.0
-E02000952,Tooting Bec East,,True,4.0
-E02000953,Summerstown,4.0,False,
-E02000954,Upper Tooting,4.0,False,
-E02000955,Tooting North,6.0,False,
-E02000956,Tooting West,,True,1.0
-E02000957,Tooting East,,True,1.0
-E02000958,Furzedown West,,True,1.0
-E02000959,Furzedown East,,True,1.0
-E02000960,St John's Wood North,,True,1.0
-E02000961,Abbey Road,,True,1.0
-E02000962,St John's Wood South,4.0,False,
-E02000963,Queen's Park Gardens,,True,4.0
-E02000964,Maida Hill,6.0,False,
-E02000965,Maida Vale,,True,2.0
-E02000966,Little Venice,,True,3.0
-E02000967,Regent's Park,4.0,False,
-E02000968,Church Street,6.0,False,
-E02000969,Westbourne,,True,2.0
-E02000970,Marylebone & Park Lane,,True,1.0
-E02000971,Bryanston & Dorset Square,4.0,False,
-E02000972,Fitzrovia West & Soho,,True,1.0
-E02000973,Westbourne Grove,,True,1.0
-E02000974,Paddington & St George's Fields,4.0,False,
-E02000975,Bayswater East,5.0,False,
-E02000976,Queensway,,True,1.0
-E02000977,"Strand, St James & Mayfair",4.0,False,
-E02000978,"Knightsbridge, Belgravia & Hyde Park",3.0,False,
-E02000979,Central Westminster,7.0,False,
-E02000980,Millbank,3.0,False,
-E02000981,Pimlico North,,True,3.0
-E02000982,Victoria,,True,2.0
-E02000983,Pimlico South,4.0,False,
-E02006782,Plaistow (Bromley),,True,4.0
-E02006783,Downham East,,True,1.0
-E02006784,Downham West,4.0,False,
-E02006785,Wickham Street & East Wickham,,True,2.0
-E02006786,Wickham Lane & Winns Common,,True,1.0
-E02006787,Elmers End,5.0,False,
-E02006788,South Norwood Park,,True,1.0
-E02006789,Biggin Hill East & Cudham,,True,5.0
-E02006791,Chiswick North West,7.0,False,
-E02006792,Chiswick Park,4.0,False,
-E02006793,Upper Edmonton West,,True,2.0
-E02006794,White Hart Lane,7.0,False,
-E02006795,Rayners Lane South,3.0,False,
-E02006796,South Ruislip,10.0,False,
-E02006798,New Cross & Deptford South,5.0,False,
-E02006799,Becontree North,5.0,False,
-E02006800,Goodmayes South,9.0,False,
-E02006801,"Lambeth North, Waterloo & South Bank",,True,1.0
-E02006802,Southwark St George's,,True,1.0
-E02006836,Belmont & South Cheam,,True,1.0
-E02006853,Millwall North,,True,1.0
-E02006854,Canary Wharf,,True,5.0
-E02006882,Kenton West,6.0,False,
-E02006918,Clapton Leaside,,True,4.0
-E02006921,Upper Clapton,,True,3.0
-E02006924,Valentines Park & Cranbrook,7.0,False,
-E02006925,Clayhall South,6.0,False,
-E02006927,Kidbrooke South,4.0,False,
-E02006928,Greenwich & Deptford Creekside,5.0,False,
-E02006929,Greenwich Peninsula,12.0,False,
-E02006930,Greenwich East,,True,1.0
-E02006931,Greenwich Town & Park,5.0,False,
+E02000001,City of London,4.0,False,0
+E02000002,Marks Gate,7.0,False,0
+E02000003,Chadwell Heath East,4.0,False,0
+E02000004,Eastbrookend,,True,1
+E02000005,Becontree Heath,5.0,False,0
+E02000007,Central Park & Frizlands Lane,3.0,False,0
+E02000008,Becontree East,9.0,False,0
+E02000009,Becontree West,8.0,False,0
+E02000010,Dagenham North,3.0,False,0
+E02000011,Dagenham Eastbrook,3.0,False,0
+E02000012,Longbridge & Barking Park,20.0,False,0
+E02000013,Becontree South,6.0,False,0
+E02000014,Dagenham Central,6.0,False,0
+E02000015,Old Dagenham Park & Village,6.0,False,0
+E02000016,Barking Central,16.0,False,0
+E02000017,Barking East,9.0,False,0
+E02000018,Mayesbrook Park & Rippleside,6.0,False,0
+E02000019,Goresbrook & Scrattons Farm,6.0,False,0
+E02000020,Creekmouth & Barking Riverside,9.0,False,0
+E02000021,Rylands Estate & Dagenham Dock,3.0,False,0
+E02000022,Gascoigne Estate & Roding Riverside,,True,1
+E02000023,Thames View,,True,1
+E02000024,High Barnet & Hadley,,True,1
+E02000025,Hadley Wood,,True,4
+E02000026,Oak Hill,,True,4
+E02000027,Ducks Island & Underhill,,True,1
+E02000028,New Barnet West,3.0,False,0
+E02000029,New Barnet Town & East Barnet,,True,4
+E02000030,Totteridge & Barnet Gate,6.0,False,0
+E02000031,Oakleigh Park,,True,1
+E02000032,Osidge,,True,6
+E02000033,Brunswick Park Road,3.0,False,0
+E02000034,Whetstone East,,True,1
+E02000035,Woodside Park,,True,1
+E02000036,Edgware East,,True,3
+E02000037,Edgware Park,,True,2
+E02000038,Friern Barnet,,True,1
+E02000039,Mill Hill Park,,True,2
+E02000040,Mill Hill East,3.0,False,0
+E02000041,Edgware Central,,True,2
+E02000042,North Finchley,,True,1
+E02000043,West Finchley,5.0,False,0
+E02000044,Mill Hill Broadway,,True,1
+E02000045,Colney Hatch,3.0,False,0
+E02000046,Church End,,True,1
+E02000047,Burnt Oak & Watling Park,4.0,False,0
+E02000048,Copthall & Downage,4.0,False,0
+E02000049,Grahame Park,,True,3
+E02000050,Fallow Corner,,True,1
+E02000051,Finchley Central,,True,4
+E02000052,East Finchley,,True,2
+E02000053,Colindale,7.0,False,0
+E02000054,North Hendon & Sunny Hill,3.0,False,0
+E02000055,Hendon Central,10.0,False,0
+E02000056,Hampstead Garden Suburb,,True,6
+E02000057,Hendon Park,,True,2
+E02000058,Temple Fortune,3.0,False,0
+E02000059,West Hendon,,True,1
+E02000060,Golders Green North,,True,2
+E02000061,Golders Green South,,True,1
+E02000062,Brent Cross & Staples Corner,7.0,False,0
+E02000063,North Cricklewood,6.0,False,0
+E02000064,Childs Hill,3.0,False,0
+E02000065,Crossway Park,6.0,False,0
+E02000066,South Thamesmead,3.0,False,0
+E02000067,Belvedere & Lessness Heath,7.0,False,0
+E02000068,Erith East,14.0,False,0
+E02000069,Erith West,9.0,False,0
+E02000070,Lesnes Abbey,5.0,False,0
+E02000071,Northumberland Heath,10.0,False,0
+E02000072,Slade Green & Crayford Marshes,12.0,False,0
+E02000073,Bostall,,True,3
+E02000074,Lesney Farm & Colyers East,10.0,False,0
+E02000075,Bursted Wood,3.0,False,0
+E02000077,St Michael's,,True,4
+E02000078,Barnehurst North,4.0,False,0
+E02000079,Bexleyheath Broadway,,True,1
+E02000080,Welling,,True,2
+E02000081,Barnehurst South,4.0,False,0
+E02000082,Falconwood,,True,1
+E02000083,Crayford,16.0,False,0
+E02000084,Danson Park,,True,2
+E02000085,Blackfen,,True,4
+E02000086,Lamorbey,,True,3
+E02000087,Bexley Village,,True,5
+E02000088,Albany Park,,True,2
+E02000089,Longlands & Halfway,,True,5
+E02000090,Sidcup East,,True,3
+E02000091,Sidcup West,,True,4
+E02000092,Foots Cray Meadows,,True,1
+E02000093,Queensbury South,,True,1
+E02000094,Kingsbury East & Colindale,6.0,False,0
+E02000095,Kingsbury West,8.0,False,0
+E02000096,Kenton Woodcock Park,,True,2
+E02000097,Kingsbury South,6.0,False,0
+E02000098,Barnhill The Avenue,9.0,False,0
+E02000099,Preston Park & East Lane,7.0,False,0
+E02000100,Northwick Park,10.0,False,0
+E02000101,Forty Lane,3.0,False,0
+E02000102,Welsh Harp,7.0,False,0
+E02000103,Dollis Hill,3.0,False,0
+E02000104,Wembley North,4.0,False,0
+E02000105,Sudbury East,7.0,False,0
+E02000106,Neasden,6.0,False,0
+E02000107,Cricklewood Anson Road,12.0,False,0
+E02000108,Sudbury West,6.0,False,0
+E02000109,Tokyngton,7.0,False,0
+E02000110,Dudden Hill,,True,1
+E02000111,Wembley West,12.0,False,0
+E02000112,Wembley East,11.0,False,0
+E02000113,St Raphaels,3.0,False,0
+E02000114,Willesden Green,3.0,False,0
+E02000115,Brondesbury,,True,1
+E02000116,Roundwood Park,3.0,False,0
+E02000117,Church End,,True,1
+E02000118,Alperton East,5.0,False,0
+E02000119,Stonebridge,5.0,False,0
+E02000120,Kilburn West,6.0,False,0
+E02000121,Alperton West,8.0,False,0
+E02000122,Brondesbury Park,,True,1
+E02000123,Harlesden,3.0,False,0
+E02000124,Queens Park,4.0,False,0
+E02000125,Kensal Green,,True,3
+E02000126,Kilburn Park,4.0,False,0
+E02000127,Mottingham,5.0,False,0
+E02000128,Chislehurst North,,True,4
+E02000130,Penge East,,True,3
+E02000131,Crystal Palace Park,3.0,False,0
+E02000132,New Beckenham,,True,4
+E02000133,Chislehurst West & Elmstead,,True,2
+E02000134,Bromley North & Sundridge,,True,1
+E02000135,Anerley North & Penge West,,True,1
+E02000136,Chislehurst East & Hoblingwell Wood,,True,5
+E02000137,Shortlands Bromley Road,,True,4
+E02000138,Beckenham East & Kelsey Park,,True,2
+E02000139,Clock House & Cator Park,,True,1
+E02000140,St Mary Cray North,3.0,False,0
+E02000141,Anerley South,,True,4
+E02000142,Widmore,3.0,False,0
+E02000144,Bromley South,3.0,False,0
+E02000145,St Mary Cray East,5.0,False,0
+E02000146,Bickley West,,True,1
+E02000147,Langley Park,,True,4
+E02000148,Bickley East,3.0,False,0
+E02000149,St Mary Cray South,3.0,False,0
+E02000150,Eden Park & Bethlem,,True,3
+E02000151,Petts Wood,,True,6
+E02000152,Bromley Common,,True,2
+E02000153,Hayes North,4.0,False,0
+E02000154,Orpington West,3.0,False,0
+E02000155,Orpington East,,True,2
+E02000156,West Wickham,3.0,False,0
+E02000157,Crofton,3.0,False,0
+E02000158,Goddington,4.0,False,0
+E02000159,Keston,,True,1
+E02000160,Hayes South & Coney Hall,7.0,False,0
+E02000161,Orpington South,3.0,False,0
+E02000162,Farnborough,,True,1
+E02000163,Chelsfield & Green Street Green,5.0,False,0
+E02000165,Biggin Hill West,,True,3
+E02000166,Highgate West,,True,2
+E02000167,Hampstead Town,,True,3
+E02000168,Tufnell Park West,,True,3
+E02000169,Frognal,,True,1
+E02000170,Fortune Green,,True,2
+E02000171,Mansfield Road & Park Hill Road,,True,4
+E02000172,Kentish Town West,,True,1
+E02000173,Fitzjohns & Royal Free,,True,2
+E02000174,Kentish Town East,,True,4
+E02000175,West Hampstead,3.0,False,0
+E02000176,Belsize Park,,True,6
+E02000177,Chalk Farm,4.0,False,0
+E02000178,Kilburn Grange,7.0,False,0
+E02000179,Adelaide Road,,True,5
+E02000180,Camden Road South,3.0,False,0
+E02000181,South Hampstead,4.0,False,0
+E02000182,Swiss Cottage,,True,1
+E02000183,Primrose Hill,,True,4
+E02000184,Camden Street & Elm Village,4.0,False,0
+E02000185,Kilburn East,5.0,False,0
+E02000186,Camden Town & Mornington Crescent,,True,2
+E02000187,Somers Town,7.0,False,0
+E02000188,Euston,3.0,False,0
+E02000189,Gray's Inn Road,,True,1
+E02000190,Bloomsbury East,,True,4
+E02000191,Fitzrovia East & Bloomsbury West,,True,1
+E02000192,Hatton Garden & Theobalds Road,3.0,False,0
+E02000193,"Holborn, St Giles & Bloomsbury South",,True,3
+E02000194,Crystal Palace Triangle,3.0,False,0
+E02000195,Upper Norwood,4.0,False,0
+E02000196,Norbury East,3.0,False,0
+E02000197,Norbury West,9.0,False,0
+E02000198,Thornton Heath North West,,True,2
+E02000199,Thornton Heath North East,,True,1
+E02000200,South Norwood Hill,,True,1
+E02000201,South Norwood Central,,True,1
+E02000202,Thornton Heath West,,True,2
+E02000203,Thornton Heath Central,,True,1
+E02000204,West Thornton North,,True,1
+E02000206,Selhurst North,4.0,False,0
+E02000207,Woodside & Ashburton,,True,2
+E02000208,University Hospital & Queen's Road,3.0,False,0
+E02000209,West Thornton South & Ampere Way,3.0,False,0
+E02000210,Addiscombe North,4.0,False,0
+E02000211,Monks Orchard,3.0,False,0
+E02000212,Broad Green & Waddon Marsh,,True,1
+E02000213,Selhurst South & West Croydon,3.0,False,0
+E02000214,Addiscombe East,,True,6
+E02000215,Addiscombe West,4.0,False,0
+E02000216,Park Hill & Lloyd Park,,True,3
+E02000217,Croydon Minster & Waddon North,,True,2
+E02000218,Shirley East,3.0,False,0
+E02000219,Shirley West,,True,4
+E02000220,Central Croydon,,True,2
+E02000221,Waddon South,,True,2
+E02000222,Croham,3.0,False,0
+E02000223,New Addington North,,True,1
+E02000224,Purley North,,True,1
+E02000225,New Addington Central,,True,2
+E02000226,Selsdon,,True,3
+E02000227,Forestdale,3.0,False,0
+E02000228,Sanderstead,,True,3
+E02000229,New Addington South,3.0,False,0
+E02000230,Purley Central,,True,1
+E02000231,Woodcote,3.0,False,0
+E02000232,Selsdon Park & Hamsey Green,,True,3
+E02000233,Kenley North,3.0,False,0
+E02000234,Coulsdon,,True,3
+E02000235,Kenley South,,True,3
+E02000236,Woodmansterne,,True,3
+E02000237,Old Coulsdon,4.0,False,0
+E02000238,Whitton Avenue West,3.0,False,0
+E02000239,Horsenden,6.0,False,0
+E02000240,Northolt West,4.0,False,0
+E02000241,Northolt East,3.0,False,0
+E02000242,Bilton Road,,True,1
+E02000243,Greenford North,3.0,False,0
+E02000244,Perivale,,True,1
+E02000245,Northolt South,4.0,False,0
+E02000246,Kingshill Avenue,8.0,False,0
+E02000247,Greenford West,4.0,False,0
+E02000248,Hanger Hill East,5.0,False,0
+E02000249,Greenford South,,True,1
+E02000250,Pitshanger,8.0,False,0
+E02000251,Greenford Ravenor Park,4.0,False,0
+E02000252,North Acton,8.0,False,0
+E02000253,Cuckoo Park,9.0,False,0
+E02000254,Southall North,6.0,False,0
+E02000255,Drayton Green & Cleveland,8.0,False,0
+E02000256,Ealing Broadway West,13.0,False,0
+E02000257,Ealing Broadway East,9.0,False,0
+E02000258,Acton Noel Road & Lunton Road,,True,1
+E02000259,Brent Valley,,True,1
+E02000260,Southall Park,4.0,False,0
+E02000261,East Acton,12.0,False,0
+E02000262,Acton Central,4.0,False,0
+E02000263,Southall West,4.0,False,0
+E02000264,Ealing Common & Twyford Ave,3.0,False,0
+E02000265,West Ealing,3.0,False,0
+E02000266,Norwood Green North & Windmill Park,6.0,False,0
+E02000267,Hanwell,,True,1
+E02000268,St Mary's,,True,3
+E02000269,Northfields,8.0,False,0
+E02000270,South Acton,6.0,False,0
+E02000271,Bedford Park,3.0,False,0
+E02000272,Elthorne Park,,True,3
+E02000274,Southall Green,8.0,False,0
+E02000275,Norwood Green South,3.0,False,0
+E02000276,South Ealing,,True,2
+E02000277,Bullsmoor & Freezywater,4.0,False,0
+E02000278,Turkey Street,,True,1
+E02000279,Enfield Lock,,True,1
+E02000280,Chase & Crews Hill,4.0,False,0
+E02000281,Carterhatch & Forty Hall,,True,2
+E02000282,Enfield Wash,4.0,False,0
+E02000283,Brimsdown Avenue,,True,4
+E02000284,Chase Side,,True,5
+E02000285,Enfield Town North,,True,1
+E02000286,Chase Farm & The Ridgeway,3.0,False,0
+E02000287,Cockfosters & Hadley Wood,3.0,False,0
+E02000288,Southbury East,4.0,False,0
+E02000289,World's End,,True,4
+E02000290,Brimsdown & Ponders End,,True,1
+E02000291,Enfield Town South & Bush Hill Park,3.0,False,0
+E02000292,Southbury West,3.0,False,0
+E02000293,Grange Park,,True,4
+E02000294,Ponders End South,,True,1
+E02000295,Oakwood Park & Highlands,4.0,False,0
+E02000296,Southgate,,True,1
+E02000297,Bury Street West & Village Road,8.0,False,0
+E02000298,Winchmore Hill,,True,4
+E02000299,Lower Edmonton North,5.0,False,0
+E02000300,Haslebury North,,True,1
+E02000301,Lower Edmonton South,5.0,False,0
+E02000302,Palmers Green East,7.0,False,0
+E02000303,Haslebury South,4.0,False,0
+E02000304,Southgate Green,,True,2
+E02000305,Palmers Green West,7.0,False,0
+E02000306,Edmonton Green,,True,4
+E02000307,Tatem Park,3.0,False,0
+E02000308,New Southgate & Arnos Grove,,True,1
+E02000309,Upper Edmonton East & Meridian Water,8.0,False,0
+E02000311,Bowes,,True,3
+E02000312,Broomfield Park,7.0,False,0
+E02000313,Thamesmead Birchmere Park,,True,3
+E02000314,West Thamesmead,10.0,False,0
+E02000315,Abbey Wood North,,True,1
+E02000316,"Woolwich Dockyard, Arsenal & Charlton Riverside",,True,1
+E02000317,Woolwich West,8.0,False,0
+E02000318,Plumstead High Street,11.0,False,0
+E02000319,Plumstead Common & Riverside,,True,1
+E02000320,Abbey Wood South,,True,1
+E02000321,Woolwich Glyndon,,True,2
+E02000323,Woolwich South,6.0,False,0
+E02000324,Charlton Village,6.0,False,0
+E02000326,Charlton Slopes,11.0,False,0
+E02000327,Woolwich Common,4.0,False,0
+E02000328,Westcombe Park & Maze Hill,5.0,False,0
+E02000329,Plumstead South,,True,1
+E02000331,Hornfair Park,,True,1
+E02000332,Shooters Hill,3.0,False,0
+E02000333,Blackheath Standard & Village,3.0,False,0
+E02000334,Kidbrooke North,9.0,False,0
+E02000335,Eltham North,,True,3
+E02000337,Eltham West,4.0,False,0
+E02000339,Eltham Park,,True,5
+E02000340,Eltham South,7.0,False,0
+E02000341,Middlepark & Horn Park,,True,3
+E02000342,Avery Hill,,True,1
+E02000343,Mottingham East,4.0,False,0
+E02000344,New Eltham,4.0,False,0
+E02000345,Stamford Hill North,,True,3
+E02000346,Woodberry Down & Manor House,,True,4
+E02000347,Stamford Hill West,3.0,False,0
+E02000348,Stamford Hill South,4.0,False,0
+E02000350,Stoke Newington East & Cazenove,,True,2
+E02000351,Brownswood,3.0,False,0
+E02000352,Clissold North,,True,2
+E02000353,Stoke Newington North,,True,3
+E02000354,Hackney Downs,,True,1
+E02000355,Lower Clapton,,True,3
+E02000356,Clissold South,,True,4
+E02000357,Hackney Marshes,,True,1
+E02000358,Stoke Newington South,,True,1
+E02000359,Homerton North,3.0,False,0
+E02000360,Amhurst Road & Pembury Estate,7.0,False,0
+E02000361,Hackney Central,,True,3
+E02000362,Hackney Wick,,True,4
+E02000363,Homerton South,3.0,False,0
+E02000364,Dalston East,,True,4
+E02000365,Dalston Kingsland & De Beauvoir,4.0,False,0
+E02000366,South Hackney,,True,2
+E02000367,London Fields & Mare Street,7.0,False,0
+E02000368,Haggerston East,3.0,False,0
+E02000369,Haggerston West & Kingsland Basin,3.0,False,0
+E02000370,Hoxton & Wenlock,9.0,False,0
+E02000371,Shoreditch,4.0,False,0
+E02000372,Old Oak & Wormwood,3.0,False,0
+E02000373,White City,3.0,False,0
+E02000374,Wormholt Road,10.0,False,0
+E02000375,Shepherd's Bush North,,True,3
+E02000376,Shepherd's Bush West,,True,1
+E02000377,Askew,7.0,False,0
+E02000378,Shepherd's Bush South,,True,2
+E02000379,Ravenscourt Park North,5.0,False,0
+E02000380,Brackenbury,,True,4
+E02000381,Brook Green,6.0,False,0
+E02000382,Ravenscourt Park South,8.0,False,0
+E02000383,West Kensington,,True,1
+E02000384,Hammersmith Broadway,3.0,False,0
+E02000385,Barons Court,,True,1
+E02000386,North End,3.0,False,0
+E02000387,Lillie Road & Greyhound Road,,True,3
+E02000388,Fulham Broadway,,True,2
+E02000389,Fulham Reach,5.0,False,0
+E02000390,Fulham Aintree,,True,3
+E02000391,Parsons Green East & Eel Brook Common,,True,1
+E02000392,Parsons Green West,,True,4
+E02000393,Munster,,True,1
+E02000394,Sands End & Chelsea Harbour,3.0,False,0
+E02000395,Fulham Palace & Hurlingham Park,,True,4
+E02000396,South Park,4.0,False,0
+E02000397,Bowes Park,4.0,False,0
+E02000398,Northumberland Park,,True,1
+E02000400,Bounds Green,,True,5
+E02000401,Roundway,,True,2
+E02000402,Tottenham Bruce Castle Park,,True,2
+E02000403,Wood Green North,,True,3
+E02000404,Scotch Estate,,True,1
+E02000405,Alexandra Park,,True,7
+E02000406,Noel Park,,True,1
+E02000407,Bruce Grove North,,True,4
+E02000408,Tottenham North West,,True,2
+E02000409,Lordship Lane & Broadwater Farm,4.0,False,0
+E02000410,Muswell Hill North,3.0,False,0
+E02000411,Tottenham Lea Valley,4.0,False,0
+E02000412,Wood Green South,,True,1
+E02000413,Fortis Green & Coldfall,,True,4
+E02000414,Bruce Grove South,9.0,False,0
+E02000415,Downhills Park,,True,3
+E02000416,Hornsey East,3.0,False,0
+E02000417,Muswell Hill South,,True,1
+E02000418,Hornsey West,,True,2
+E02000419,Harringay Ladder North,4.0,False,0
+E02000420,Tottenham Green West,,True,2
+E02000421,Tottenham Green East,3.0,False,0
+E02000422,West Green & St Ann's,,True,3
+E02000423,Harringay East,,True,1
+E02000424,Hornsey Vale,,True,6
+E02000425,South Tottenham,,True,4
+E02000426,Highgate Wood,,True,7
+E02000427,Harringay Ladder South,,True,3
+E02000428,Harringay Warehouse District & Vartry,5.0,False,0
+E02000429,Crouch End West,,True,1
+E02000430,Crouch End East,,True,4
+E02000431,Highgate East,,True,4
+E02000432,Stroud Green,3.0,False,0
+E02000433,Stanmore Park,,True,1
+E02000434,Canons Park,4.0,False,0
+E02000435,Stanmore Uxbridge Road,4.0,False,0
+E02000436,Hatch End North,,True,3
+E02000437,Harrow Weald,4.0,False,0
+E02000438,Hatch End South,,True,1
+E02000439,Edgware West,,True,1
+E02000440,Belmont,,True,1
+E02000441,Pinner Green,7.0,False,0
+E02000442,Queensbury East,3.0,False,0
+E02000443,Wealdstone North,6.0,False,0
+E02000444,Queensbury West,3.0,False,0
+E02000445,Wealdstone South,6.0,False,0
+E02000447,Headstone Lane,9.0,False,0
+E02000448,Pinner Central,,True,1
+E02000449,Kenton East,3.0,False,0
+E02000451,North Harrow,5.0,False,0
+E02000452,Greenhill North,4.0,False,0
+E02000453,Pinner Road,6.0,False,0
+E02000454,Pinner South,3.0,False,0
+E02000455,Greenhill South,7.0,False,0
+E02000456,West Harrow,3.0,False,0
+E02000457,Rayners Lane North,5.0,False,0
+E02000459,South Harrow,4.0,False,0
+E02000460,Newton Farm,8.0,False,0
+E02000461,Harrow-on-the-Hill,,True,1
+E02000462,Alexandra Park,4.0,False,0
+E02000463,Earlsmead,7.0,False,0
+E02000464,Dagnam Park & Noak Hill,4.0,False,0
+E02000465,Petersfield Avenue & Duck Wood,5.0,False,0
+E02000466,Havering-atte-Bower & Chase Cross,3.0,False,0
+E02000467,Harold Hill East,3.0,False,0
+E02000468,Collier Row & Park Farm,5.0,False,0
+E02000469,Harold Hill West,6.0,False,0
+E02000470,Harold Park & Harold Wood,4.0,False,0
+E02000471,Rise Park,4.0,False,0
+E02000472,Romford North,3.0,False,0
+E02000473,Ardleigh Green,3.0,False,0
+E02000474,Romford North West,,True,3
+E02000475,Gidea Park,4.0,False,0
+E02000476,Central Romford,,True,1
+E02000477,Romford East,,True,1
+E02000478,Emerson Park,,True,7
+E02000479,Romford South,3.0,False,0
+E02000480,Rush Green,3.0,False,0
+E02000481,Cranham East,,True,1
+E02000482,Upminster North & Cranham West,,True,2
+E02000483,Hornchurch,,True,3
+E02000484,Hylands,,True,1
+E02000485,Upminster Bridge,,True,1
+E02000486,Elm Park East,,True,1
+E02000487,Upminster South & Corbets Tey,,True,2
+E02000488,Hacton,,True,4
+E02000489,Elm Park West,3.0,False,0
+E02000490,South Hornchurch,,True,1
+E02000491,Hornchurch Marshes,,True,1
+E02000492,Rainham East & Wennington,7.0,False,0
+E02000493,Rainham West,,True,5
+E02000494,Ducks Hill,,True,5
+E02000495,Northwood,8.0,False,0
+E02000496,Harefield,,True,3
+E02000497,Northwood Hills,,True,1
+E02000498,West Ruislip North,,True,1
+E02000499,Eastcote,3.0,False,0
+E02000500,Ruislip,,True,1
+E02000501,Ruislip Manor,5.0,False,0
+E02000502,West Ruislip South,19.0,False,0
+E02000503,Ruislip Gardens,8.0,False,0
+E02000504,Ickenham,,True,1
+E02000506,Uxbridge Common & Swakeleys,,True,1
+E02000507,Hillingdon North East,11.0,False,0
+E02000508,Uxbridge Central & Brunel,5.0,False,0
+E02000509,Uxbridge West,4.0,False,0
+E02000510,Hillingdon South,6.0,False,0
+E02000511,Charville,6.0,False,0
+E02000512,Hillingdon Heath,6.0,False,0
+E02000513,Yeading North,4.0,False,0
+E02000514,Yeading West,6.0,False,0
+E02000515,Yiewsley West,3.0,False,0
+E02000516,Yeading Brookside,4.0,False,0
+E02000517,Hayes End,10.0,False,0
+E02000518,Yiewsley East,6.0,False,0
+E02000519,Hayes Town North,,True,1
+E02000520,Hayes Town & Lake Farm,5.0,False,0
+E02000521,West Drayton East,8.0,False,0
+E02000522,West Drayton West,,True,1
+E02000523,Hayes South,8.0,False,0
+E02000524,"Heathrow, Hardmonsworth & Sipson",13.0,False,0
+E02000525,Harlington & Cranford Cross,14.0,False,0
+E02000526,Chiswick North East,,True,3
+E02000528,Brentford East,7.0,False,0
+E02000529,Heston North,9.0,False,0
+E02000530,North Hyde & North Cranford,14.0,False,0
+E02000531,Brentford Central,,True,1
+E02000532,Chiswick South East,,True,2
+E02000533,Chiswick South West,5.0,False,0
+E02000534,Brentford West & Osterley Park,3.0,False,0
+E02000535,Heston West,11.0,False,0
+E02000536,Heston Central & Lampton West,4.0,False,0
+E02000537,Osterley & Lampton East,4.0,False,0
+E02000538,Cranford,8.0,False,0
+E02000539,Syon Green,3.0,False,0
+E02000540,Spring Grove,6.0,False,0
+E02000541,Hounslow Meadows,4.0,False,0
+E02000542,Hounslow West,12.0,False,0
+E02000543,Hounslow High Street,18.0,False,0
+E02000544,Hounslow East,9.0,False,0
+E02000545,Isleworth & Ivybridge,9.0,False,0
+E02000546,Hounslow Heath,7.0,False,0
+E02000547,North Feltham & Hatton,9.0,False,0
+E02000548,Bedfont,10.0,False,0
+E02000549,Feltham East,8.0,False,0
+E02000550,Feltham Central,11.0,False,0
+E02000551,Hanworth North,4.0,False,0
+E02000552,Lower Feltham,5.0,False,0
+E02000553,Hanworth South,4.0,False,0
+E02000554,Highcroft & Holly Park,,True,1
+E02000555,Archway East,6.0,False,0
+E02000556,Tollington,4.0,False,0
+E02000557,Archway West,,True,2
+E02000558,Finsbury Park West,3.0,False,0
+E02000559,Gillespie Road,5.0,False,0
+E02000560,Holloway Nag's Head,,True,3
+E02000561,Tufnell Park East,10.0,False,0
+E02000562,Highbury,,True,1
+E02000563,Hilldrop,3.0,False,0
+E02000564,Lower Holloway,4.0,False,0
+E02000565,Newington Green,,True,1
+E02000566,Highbury Fields,,True,3
+E02000567,Canonbury East & Mildmay Park,4.0,False,0
+E02000568,Caledonian Road,6.0,False,0
+E02000569,Islington North & Canonbury West,,True,4
+E02000570,Barnsbury East,,True,4
+E02000571,Islington East & Arlington,6.0,False,0
+E02000572,Barnsbury West,,True,1
+E02000573,Angel,3.0,False,0
+E02000574,King's Cross & Pentonville,4.0,False,0
+E02000575,Clerkenwell,4.0,False,0
+E02000576,Old Street & St Luke's,4.0,False,0
+E02000577,Golborne & Swinbrook,,True,4
+E02000578,Ladbroke Grove,,True,4
+E02000579,North Kensington,4.0,False,0
+E02000580,Portobello,,True,2
+E02000581,Notting Dale,,True,5
+E02000582,Notting Hill Gate,,True,4
+E02000583,Notting Hill West,,True,6
+E02000584,Notting Hill South,4.0,False,0
+E02000585,Holland Park,4.0,False,0
+E02000586,Queen's Gate,6.0,False,0
+E02000587,Kensington Abingdon,,True,5
+E02000588,Hans Town,,True,2
+E02000589,Kensington Gardens,6.0,False,0
+E02000590,Brompton,3.0,False,0
+E02000591,Earl's Court,4.0,False,0
+E02000592,South Kensington,,True,1
+E02000593,West Brompton,,True,2
+E02000594,Chelsea Manor & Royal Hospital,,True,3
+E02000595,Chelsea Riverside East,,True,4
+E02000596,Fulham Road,3.0,False,0
+E02000597,Chelsea Riverside West,,True,2
+E02000598,Tudor Drive,,True,2
+E02000599,Kingston Vale & Coombe Hill,6.0,False,0
+E02000600,Kingston Hill,,True,1
+E02000601,Kingston North,3.0,False,0
+E02000602,Kingston East & Norbiton West,8.0,False,0
+E02000603,Norbiton East,5.0,False,0
+E02000604,New Malden East,,True,2
+E02000605,New Malden West,,True,1
+E02000606,Kingston Riverside,,True,1
+E02000607,Berrylands North,,True,1
+E02000608,Surbiton North,,True,1
+E02000609,Malden Manor,,True,1
+E02000610,Surbiton South,6.0,False,0
+E02000611,Berrylands South,4.0,False,0
+E02000612,Motspur Park,,True,2
+E02000613,Southborough,,True,1
+E02000614,Tolworth,3.0,False,0
+E02000615,Hook,5.0,False,0
+E02000616,Chessington North,3.0,False,0
+E02000617,Chessington South & Malden Rushett,8.0,False,0
+E02000619,Lambeth Walk & North Kennington,,True,2
+E02000620,Kennington West & Vauxhall North,,True,1
+E02000621,Vauxhall South,5.0,False,0
+E02000622,Oval,,True,4
+E02000623,Stockwell North,4.0,False,0
+E02000624,Stockwell East,,True,2
+E02000625,Stockwell West,6.0,False,0
+E02000626,Loughborough Road,4.0,False,0
+E02000627,Stockwell South,4.0,False,0
+E02000628,Brixton North,8.0,False,0
+E02000629,Clapham North,,True,1
+E02000630,Clapham Old Town,,True,5
+E02000631,Herne Hill East,,True,1
+E02000632,Acre Lane,,True,5
+E02000633,Brixton Central,,True,2
+E02000634,Clapham Common North,3.0,False,0
+E02000635,Poets' Corner & Brockwell Park,,True,1
+E02000636,Clapham South,6.0,False,0
+E02000637,Brixton Hill East,,True,3
+E02000638,Brixton Hilll West,4.0,False,0
+E02000639,Clapham Park East & Streatham Hill North,4.0,False,0
+E02000640,Clapham Park West,3.0,False,0
+E02000641,Tulse Hill,,True,1
+E02000642,West Dulwich,,True,1
+E02000643,Streatham Hill,,True,2
+E02000644,Leigham Vale & Royal Circus,,True,2
+E02000645,West Norwood East,3.0,False,0
+E02000646,Streatham Central,4.0,False,0
+E02000647,West Norwood West & Streatham East,,True,1
+E02000648,West Norwood South,4.0,False,0
+E02000649,Streatham Green,3.0,False,0
+E02000650,Gipsy Hill,4.0,False,0
+E02000651,Streatham Common,3.0,False,0
+E02000652,Streatham Vale,3.0,False,0
+E02000653,Silwood & Pepys,,True,1
+E02000654,Deptford North,,True,3
+E02000655,New Cross Gate,5.0,False,0
+E02000657,New Cross South,6.0,False,0
+E02000658,Telegraph Hill,6.0,False,0
+E02000659,Blackheath West,,True,6
+E02000660,Brockley East & St Johns,3.0,False,0
+E02000661,Blackheath Village,,True,5
+E02000662,Brockley West,,True,1
+E02000663,Loampit & Hilly Fields,3.0,False,0
+E02000664,Lewisham Central & Park,3.0,False,0
+E02000665,Manor House,3.0,False,0
+E02000666,Ladywell,4.0,False,0
+E02000667,Crofton Park,,True,1
+E02000668,Lee,,True,3
+E02000669,Hither Green,,True,2
+E02000670,Catford East & Mountsfield Park,5.0,False,0
+E02000671,Honor Oak,,True,1
+E02000672,Catford Bridge,5.0,False,0
+E02000673,Forest Hill West,,True,6
+E02000674,Corbett Estate,4.0,False,0
+E02000675,Grove Park & Lee South,4.0,False,0
+E02000676,Forest Hill East,,True,4
+E02000677,Culverley Green,,True,2
+E02000678,Further Green,,True,5
+E02000679,Perry Vale,,True,4
+E02000680,Upper Sydenham,,True,2
+E02000681,Bellingham & Perry Hill,3.0,False,0
+E02000682,Forster Park & Southend,,True,2
+E02000683,Chinbrook,,True,5
+E02000685,Sydenham Wells,,True,3
+E02000686,Beckenham Hill,,True,1
+E02000687,Lower Sydenham,3.0,False,0
+E02000689,Wimbledon Park & Durnsford Road,3.0,False,0
+E02000690,Wimbledon Common,,True,1
+E02000691,Wimbledon Broadway North,8.0,False,0
+E02000692,Wimbledon Hill,,True,3
+E02000693,Colliers Wood,,True,1
+E02000694,South Wimbledon,7.0,False,0
+E02000695,Graveney,8.0,False,0
+E02000696,Lavender Park,3.0,False,0
+E02000697,Wimbledon Broadway South,9.0,False,0
+E02000698,Cottenham Park,3.0,False,0
+E02000699,Wimbledon Chase,,True,2
+E02000700,Merton Church Road & Phipps Bridge,5.0,False,0
+E02000701,Mitcham East,3.0,False,0
+E02000702,Lonesome,3.0,False,0
+E02000703,Merton Park,4.0,False,0
+E02000704,Raynes Park,,True,2
+E02000705,Rowan Road,3.0,False,0
+E02000706,Mitcham West,5.0,False,0
+E02000707,Pollards Hill,3.0,False,0
+E02000708,West Barnes,5.0,False,0
+E02000709,Cannon Hill,6.0,False,0
+E02000710,Mitcham South,,True,1
+E02000711,Morden Central,10.0,False,0
+E02000712,St Helier North,,True,1
+E02000713,Lower Morden,4.0,False,0
+E02000714,Forest Gate North,3.0,False,0
+E02000715,Little Ilford West,3.0,False,0
+E02000716,Manor Park North,,True,3
+E02000717,Manor Park South,10.0,False,0
+E02000718,Little Ilford East,,True,3
+E02000719,Forest Gate West,,True,1
+E02000720,Forest Gate East,,True,2
+E02000721,Forest Gate South,3.0,False,0
+E02000722,Stratford East,,True,1
+E02000723,East Ham North,3.0,False,0
+E02000724,Plashet East,5.0,False,0
+E02000725,Stratford Central,5.0,False,0
+E02000726,Olympic Park & Mill Meads,5.0,False,0
+E02000727,Plashet West,3.0,False,0
+E02000728,Wallend North,4.0,False,0
+E02000729,West Ham Park,,True,2
+E02000730,Upton Park,3.0,False,0
+E02000731,East Ham Central,,True,1
+E02000732,East Ham West,4.0,False,0
+E02000733,West Ham & Stratford Park,3.0,False,0
+E02000734,Plaistow North,,True,1
+E02000735,Plaistow North East,5.0,False,0
+E02000736,Wallend South,,True,1
+E02000737,East Ham South,5.0,False,0
+E02000738,East Ham South West,,True,2
+E02000739,Plaistow Park,,True,1
+E02000740,Canning Town North,4.0,False,0
+E02000741,Plaistow South,,True,1
+E02000742,Lonsdale Avenue,,True,2
+E02000743,Canning Town Central,4.0,False,0
+E02000744,Canning Town East,7.0,False,0
+E02000745,Beckton North,3.0,False,0
+E02000746,Beckton,3.0,False,0
+E02000747,Canning Town South & Bow Creek,6.0,False,0
+E02000748,Beckton Park,4.0,False,0
+E02000749,Custom House,,True,2
+E02000750,Royal Docks & North Woolwich,4.0,False,0
+E02000751,Woodford Wells,,True,4
+E02000752,Hainault East,12.0,False,0
+E02000753,Hainault West,8.0,False,0
+E02000754,Woodford Green,4.0,False,0
+E02000755,Woodford Bridge,5.0,False,0
+E02000756,Fairlop,3.0,False,0
+E02000757,South Woodford High Road,5.0,False,0
+E02000758,Clayhall North,,True,1
+E02000759,Roding,8.0,False,0
+E02000760,Barkingside North,5.0,False,0
+E02000762,Barkingside West,,True,1
+E02000763,Aldborough Hatch,3.0,False,0
+E02000764,Snaresbrook,3.0,False,0
+E02000765,Barkingside East,4.0,False,0
+E02000767,Newbury Park,,True,2
+E02000768,Wanstead,,True,2
+E02000769,Chadwell Heath West,6.0,False,0
+E02000770,Seven Kings Park,8.0,False,0
+E02000772,Goodmayes North,6.0,False,0
+E02000773,Ley Street,4.0,False,0
+E02000774,Seven Kings Meads Lane,,True,1
+E02000776,Ilford North East,,True,1
+E02000777,Wanstead Flats,4.0,False,0
+E02000779,Ilford North West,,True,1
+E02000780,Ilford South East,14.0,False,0
+E02000781,South Park,6.0,False,0
+E02000782,Ilford South West,5.0,False,0
+E02000783,Loxford Park,15.0,False,0
+E02000784,North Barnes,3.0,False,0
+E02000785,Kew Gardens,3.0,False,0
+E02000786,Mortlake & South Barnes,9.0,False,0
+E02000787,North Sheen,,True,1
+E02000788,East Sheen North,6.0,False,0
+E02000789,Queen's Road,5.0,False,0
+E02000790,St Margarets,6.0,False,0
+E02000791,Richmond Central,,True,5
+E02000792,Twickenham Marble Hill,,True,3
+E02000793,Whitton,,True,1
+E02000794,Twickenham North,,True,2
+E02000795,"Richmond Park, Sheen Gate & Petersham",,True,3
+E02000796,Heathfield,8.0,False,0
+E02000797,Twickenham Town,,True,2
+E02000798,Twickenham West,,True,2
+E02000799,Strawberry Hill,,True,4
+E02000800,Ham,,True,4
+E02000801,Teddington North,3.0,False,0
+E02000802,Hampton Hill,4.0,False,0
+E02000803,Nursery Lands & Hampton North,3.0,False,0
+E02000804,Teddington Central,,True,1
+E02000805,Hampton Wick & Teddington East,,True,2
+E02000806,Hampton Village,5.0,False,0
+E02000807,Rotherhithe,,True,2
+E02000808,Borough & Southwark Street,3.0,False,0
+E02000809,Bermondsey North,4.0,False,0
+E02000810,Bermondsey East,,True,3
+E02000812,London Bridge & Bermondsey West,4.0,False,0
+E02000813,Canada Water,,True,2
+E02000814,Surrey Quays,,True,3
+E02000815,Elephant & Castle,4.0,False,0
+E02000816,South Bermondsey Central,5.0,False,0
+E02000817,South Bermondsey East,,True,2
+E02000818,Walworth North,,True,2
+E02000819,South Bermondsey West,3.0,False,0
+E02000820,Kennington East,3.0,False,0
+E02000821,Burgess Park,3.0,False,0
+E02000822,Walworth South,,True,1
+E02000823,Burgess Park West & John Ruskin Street,3.0,False,0
+E02000824,Peckham Park Road,,True,1
+E02000825,Peckham North West,4.0,False,0
+E02000826,Camberwell North,,True,1
+E02000827,Camberwell Green,3.0,False,0
+E02000828,Peckham North,3.0,False,0
+E02000829,Queens Road Peckham,,True,2
+E02000830,Camberwell South,,True,4
+E02000831,Peckham Rye,,True,1
+E02000832,Nunhead North,3.0,False,0
+E02000833,North Dulwich,4.0,False,0
+E02000834,Peckham Rye Common,3.0,False,0
+E02000835,Nunhead South & Newlands,,True,5
+E02000836,East Dulwich,,True,4
+E02000837,Herne Hill & Dulwich Park,3.0,False,0
+E02000838,Dulwich Hill,6.0,False,0
+E02000839,Sydenham Hill,6.0,False,0
+E02000840,Middleton Circle,4.0,False,0
+E02000841,St Helier South,,True,2
+E02000842,Stonecot,4.0,False,0
+E02000843,Hackbridge,7.0,False,0
+E02000844,The Wrythe,,True,2
+E02000845,Worcester Park East,,True,1
+E02000846,Sutton North,,True,4
+E02000847,North Cheam West,,True,1
+E02000848,North Cheam East,,True,1
+E02000849,Wallington North,,True,3
+E02000850,Beddington,3.0,False,0
+E02000851,Sutton Central,7.0,False,0
+E02000852,Sutton East,,True,1
+E02000853,Sutton West,3.0,False,0
+E02000854,Carshalton Village,,True,1
+E02000855,Cheam High Street,,True,2
+E02000856,Wallington South,3.0,False,0
+E02000857,Sutton South West,,True,1
+E02000858,Roundshaw,7.0,False,0
+E02000859,Carshalton on the Hill,,True,1
+E02000860,Sutton South & Shanklin,5.0,False,0
+E02000861,Carshalton Beeches & Banstead Road,3.0,False,0
+E02000863,"Orchard Hill, Woodcote Green & Clockhouse",,True,3
+E02000864,Bow North & Fish Island,,True,1
+E02000865,Bethnal Green North East,,True,1
+E02000866,Bow West,,True,4
+E02000867,Bow South,7.0,False,0
+E02000868,Bethnal Green North West,,True,2
+E02000869,Columbia Road,,True,3
+E02000870,Bethnal Green East,,True,3
+E02000871,Bromley-by-Bow East,4.0,False,0
+E02000872,Brick Lane North,,True,4
+E02000873,Mile End West,,True,2
+E02000874,Bethnal Green Central,,True,1
+E02000875,Bromley-by-Bow West,3.0,False,0
+E02000876,Bethnal Green South,,True,2
+E02000877,Mile End East & Burdett Estate,12.0,False,0
+E02000878,Spitalfields,5.0,False,0
+E02000879,Stepney Green,,True,1
+E02000880,Whitechapel,4.0,False,0
+E02000881,Poplar Leaside,4.0,False,0
+E02000882,Limehouse North & Stepney East,,True,2
+E02000883,Poplar Central,4.0,False,0
+E02000884,Aldgate,,True,1
+E02000885,Shadwell North,7.0,False,0
+E02000886,Limehouse East,3.0,False,0
+E02000887,Poplar West,5.0,False,0
+E02000888,Shadwell Basin & Ratcliffe,,True,5
+E02000889,St George in the East & Wapping North,7.0,False,0
+E02000890,Tower Hill & Wapping South,,True,4
+E02000891,Blackwall & Leamouth,7.0,False,0
+E02000893,Mudchute,,True,1
+E02000894,Millwall South,3.0,False,0
+E02000895,Chingford Green West,,True,4
+E02000896,Chingford Green East,4.0,False,0
+E02000897,Friday Hill,,True,2
+E02000898,Larkswood,,True,2
+E02000899,Chingford Mount,,True,2
+E02000900,South Chingford,3.0,False,0
+E02000901,Highams Park East,,True,4
+E02000902,Highams Park West,6.0,False,0
+E02000903,Higham Hill,6.0,False,0
+E02000904,Fulbourne Road & Walthamstow Forest,,True,1
+E02000905,Lloyd Park,,True,2
+E02000906,William Morris,3.0,False,0
+E02000907,Wood Street,5.0,False,0
+E02000908,Blackhorse Road,7.0,False,0
+E02000909,Upper Walthamstow,,True,2
+E02000910,Walthamstow Central,5.0,False,0
+E02000911,Walthamstow Market & South Grove,5.0,False,0
+E02000912,Markhouse & St James Park,6.0,False,0
+E02000913,Whipps Cross,7.0,False,0
+E02000914,Baker's Arms,3.0,False,0
+E02000915,Leytonstone North,,True,1
+E02000916,Lea Bridge,6.0,False,0
+E02000917,Leyton North,,True,1
+E02000918,Leytonstone East,4.0,False,0
+E02000919,Leyton East,7.0,False,0
+E02000920,Leyton South,5.0,False,0
+E02000921,Leytonstone South West,6.0,False,0
+E02000922,Leytonstone South East,5.0,False,0
+E02000923,Battersea Park,4.0,False,0
+E02000924,Nine Elms & Patmore,5.0,False,0
+E02000925,Battersea Latchmere,3.0,False,0
+E02000926,St Mary's & Cotton Row,8.0,False,0
+E02000927,Lavender Hill East,5.0,False,0
+E02000928,Putney Embankment & Lower Common,,True,3
+E02000929,York Gardens,,True,1
+E02000930,Lavender Hill West & Little India,,True,2
+E02000931,Clapham Common West,,True,4
+E02000932,Putney Town & Wandsworth Park,4.0,False,0
+E02000933,Putney West,,True,4
+E02000934,Clapham Junction & East Hill,5.0,False,0
+E02000935,Roehampton North West,3.0,False,0
+E02000936,East Putney,,True,2
+E02000937,Wandsworth Common,,True,1
+E02000938,Roehampton North East,7.0,False,0
+E02000939,Nightingale Lane,3.0,False,0
+E02000940,Wandsworth South,6.0,False,0
+E02000941,Earlsfield North,7.0,False,0
+E02000942,Southfields North,3.0,False,0
+E02000943,Balham,,True,1
+E02000944,West Hill North,,True,1
+E02000945,Roehampton South & Putney Vale,4.0,False,0
+E02000946,Earlsfield South,5.0,False,0
+E02000947,Merton Road,3.0,False,0
+E02000948,Tooting Bec Common,3.0,False,0
+E02000949,Springfield,,True,2
+E02000950,West Hill South,3.0,False,0
+E02000951,Tooting Bec West,,True,3
+E02000952,Tooting Bec East,,True,4
+E02000953,Summerstown,4.0,False,0
+E02000954,Upper Tooting,4.0,False,0
+E02000955,Tooting North,6.0,False,0
+E02000956,Tooting West,,True,1
+E02000957,Tooting East,,True,1
+E02000958,Furzedown West,,True,1
+E02000959,Furzedown East,,True,1
+E02000960,St John's Wood North,,True,1
+E02000961,Abbey Road,,True,1
+E02000962,St John's Wood South,4.0,False,0
+E02000963,Queen's Park Gardens,,True,4
+E02000964,Maida Hill,6.0,False,0
+E02000965,Maida Vale,,True,2
+E02000966,Little Venice,,True,3
+E02000967,Regent's Park,4.0,False,0
+E02000968,Church Street,6.0,False,0
+E02000969,Westbourne,,True,2
+E02000970,Marylebone & Park Lane,,True,1
+E02000971,Bryanston & Dorset Square,4.0,False,0
+E02000972,Fitzrovia West & Soho,,True,1
+E02000973,Westbourne Grove,,True,1
+E02000974,Paddington & St George's Fields,4.0,False,0
+E02000975,Bayswater East,5.0,False,0
+E02000976,Queensway,,True,1
+E02000977,"Strand, St James & Mayfair",4.0,False,0
+E02000978,"Knightsbridge, Belgravia & Hyde Park",3.0,False,0
+E02000979,Central Westminster,7.0,False,0
+E02000980,Millbank,3.0,False,0
+E02000981,Pimlico North,,True,3
+E02000982,Victoria,,True,2
+E02000983,Pimlico South,4.0,False,0
+E02006782,Plaistow (Bromley),,True,4
+E02006783,Downham East,,True,1
+E02006784,Downham West,4.0,False,0
+E02006785,Wickham Street & East Wickham,,True,2
+E02006786,Wickham Lane & Winns Common,,True,1
+E02006787,Elmers End,5.0,False,0
+E02006788,South Norwood Park,,True,1
+E02006789,Biggin Hill East & Cudham,,True,5
+E02006791,Chiswick North West,7.0,False,0
+E02006792,Chiswick Park,4.0,False,0
+E02006793,Upper Edmonton West,,True,2
+E02006794,White Hart Lane,7.0,False,0
+E02006795,Rayners Lane South,3.0,False,0
+E02006796,South Ruislip,10.0,False,0
+E02006798,New Cross & Deptford South,5.0,False,0
+E02006799,Becontree North,5.0,False,0
+E02006800,Goodmayes South,9.0,False,0
+E02006801,"Lambeth North, Waterloo & South Bank",,True,1
+E02006802,Southwark St George's,,True,1
+E02006836,Belmont & South Cheam,,True,1
+E02006853,Millwall North,,True,1
+E02006854,Canary Wharf,,True,5
+E02006882,Kenton West,6.0,False,0
+E02006918,Clapton Leaside,,True,4
+E02006921,Upper Clapton,,True,3
+E02006924,Valentines Park & Cranbrook,7.0,False,0
+E02006925,Clayhall South,6.0,False,0
+E02006927,Kidbrooke South,4.0,False,0
+E02006928,Greenwich & Deptford Creekside,5.0,False,0
+E02006929,Greenwich Peninsula,12.0,False,0
+E02006930,Greenwich East,,True,1
+E02006931,Greenwich Town & Park,5.0,False,0
