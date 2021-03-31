@@ -1,0 +1,574 @@
+areaCode,areaName,Cases last 7 days,not spot,number weeks not-spot
+E02002796,Allestree North,,True,3
+E02002797,Allestree South,,True,2
+E02002798,Oakwood,4.0,False,0
+E02002799,Breadsall Hilltop,12.0,False,0
+E02002800,Darley Abbey,,True,4
+E02002801,Chaddesden North,5.0,False,0
+E02002802,Chaddesden West,5.0,False,0
+E02002803,Little Chester,5.0,False,0
+E02002804,Mackworth,,True,1
+E02002805,Spondon North,3.0,False,0
+E02002806,New Zealand,,True,1
+E02002807,Chaddesden Park,,True,1
+E02002808,Cathedral Quarter & California,5.0,False,0
+E02002809,Spondon South,,True,4
+E02002810,Mickleover North,4.0,False,0
+E02002811,New Normanton,5.0,False,0
+E02002812,Littleover East,4.0,False,0
+E02002813,Rose Hill & Castleward,5.0,False,0
+E02002814,Mickleover South,,True,1
+E02002815,Normanton North & Peartree,10.0,False,0
+E02002816,Littleover West & Heatherton,9.0,False,0
+E02002817,Normanton West,,True,2
+E02002818,Normanton South,7.0,False,0
+E02002819,Wilmorton & Alvaston Village,4.0,False,0
+E02002820,Alvaston & Crewton,7.0,False,0
+E02002821,Allenton & Osmaston,4.0,False,0
+E02002822,Sunny Hill,7.0,False,0
+E02002823,Boulton,3.0,False,0
+E02002824,Sinfin,6.0,False,0
+E02002825,Chellsaton West & Shelton Lock,3.0,False,0
+E02002826,Chellaston East,3.0,False,0
+E02002827,Beamont Park,8.0,False,0
+E02002828,Rushey Mead North,12.0,False,0
+E02002829,Stocking Farm & Mowmacre,28.0,False,0
+E02002830,Bradgate Heights & Beaumont Leys,4.0,False,0
+E02002831,Rushey Mead South,13.0,False,0
+E02002832,Belgrave North West,27.0,False,0
+E02002833,Belgrave North East,10.0,False,0
+E02002834,Abbey Park,7.0,False,0
+E02002835,Hamilton & Humberstone,16.0,False,0
+E02002836,Belgrave South,5.0,False,0
+E02002837,Northfields & Merrydale,15.0,False,0
+E02002838,New Parks & Stokeswood,11.0,False,0
+E02002839,Colchester Road,16.0,False,0
+E02002842,Newfoundpool,11.0,False,0
+E02002843,Spinney Hill Road,20.0,False,0
+E02002844,St Matthews & Highfields North,5.0,False,0
+E02002845,North Evington & Rowlatts Hill,6.0,False,0
+E02002846,Dane Hills & Western Park,12.0,False,0
+E02002847,Crown Hills,5.0,False,0
+E02002848,Highfields South,10.0,False,0
+E02002849,West End & Westcotes,21.0,False,0
+E02002851,Evington,13.0,False,0
+E02002852,Braunstone Park West,6.0,False,0
+E02002853,Stoneygate North,7.0,False,0
+E02002854,Braunstone Park East,10.0,False,0
+E02002855,Rowley Fields & Faircharm,23.0,False,0
+E02002856,Clarendon Park & Stoneygate South,13.0,False,0
+E02002857,Aylestone North & Saffron Fields,3.0,False,0
+E02002858,Knighton,3.0,False,0
+E02002860,Aylestone South,4.0,False,0
+E02002861,Saffron Lane,12.0,False,0
+E02002862,Eyres Monsell,10.0,False,0
+E02002863,"Market Overton, Cottesmore & Empingham",6.0,False,0
+E02002864,"Oakham West, Langham & Whissendine",12.0,False,0
+E02002865,Oakham East,4.0,False,0
+E02002866,"Ketton, Ryhall & Luffenham",,True,1
+E02002867,"Uppingham, Lyddington & Braunston",,True,3
+E02002868,Rise Park & Top Valley West,9.0,False,0
+E02002869,Bulwell North,,True,1
+E02002871,Highbury Vale,7.0,False,0
+E02002872,Bulwell West,4.0,False,0
+E02002873,Bestwood,3.0,False,0
+E02002874,North Sherwood,19.0,False,0
+E02002875,Basford Park Lane,3.0,False,0
+E02002876,Old Basford,5.0,False,0
+E02002877,Sherwood Vale,12.0,False,0
+E02002878,Broxtowe & Cinderhill,8.0,False,0
+E02002879,New Basford,8.0,False,0
+E02002880,Aspley,9.0,False,0
+E02002881,Bilborough North,5.0,False,0
+E02002882,Mapperley Park,,True,2
+E02002883,Thorneywood,10.0,False,0
+E02002884,Forest Fields,5.0,False,0
+E02002885,Hyson Green,10.0,False,0
+E02002886,Bobbers Mill,14.0,False,0
+E02002887,Beechdale,4.0,False,0
+E02002888,St Ann's East,3.0,False,0
+E02002889,"Arboretum, Forest & Trent University",3.0,False,0
+E02002890,St Ann's West,8.0,False,0
+E02002891,Bakersfield,12.0,False,0
+E02002892,Bilborough South,6.0,False,0
+E02002893,Radford,5.0,False,0
+E02002894,Wollaton Park,6.0,False,0
+E02002895,The Park & Castle,,True,2
+E02002896,Sneinton,10.0,False,0
+E02002897,Wollaton Vale,4.0,False,0
+E02002898,Lenton & Dunkirk,4.0,False,0
+E02002899,"University Park, Lenton Abbey & Jubilee Campus",4.0,False,0
+E02002901,Wilford & Silverdale,5.0,False,0
+E02002902,Clifton North,7.0,False,0
+E02002903,Clifton West,,True,1
+E02002904,Clifton South,,True,2
+E02004029,Alfreton,,True,3
+E02004030,"Crich, Holloway & Wingfield",,True,2
+E02004031,Somercotes & Pye Bridge,,True,1
+E02004032,Swanwick & Leabrooks,3.0,False,0
+E02004033,"Ripley East, Riddings & Ironville",8.0,False,0
+E02004034,Ripley West,,True,2
+E02004035,"Ambergate, Heage & Idridgehay",,True,3
+E02004036,Ripley South & Loscoe,9.0,False,0
+E02004037,Belper Far Laund,,True,4
+E02004038,Belper Town,8.0,False,0
+E02004039,Openwoodgate & Holbrook,4.0,False,0
+E02004040,Heanor Gate & Aldercar,5.0,False,0
+E02004041,Heanor East & Langley Mill,8.0,False,0
+E02004043,Kilburn & Horsley,,True,1
+E02004044,"Duffield, Quarndon & Kirk Langley",3.0,False,0
+E02004045,Clowne & Barlborough,9.0,False,0
+E02004046,Whitwell & Elmton,4.0,False,0
+E02004047,Creswell & Hodthorpe,,True,1
+E02004048,Bolsover North & Shuttlewood,7.0,False,0
+E02004049,Bolsover South & Glapwell,,True,1
+E02004050,Shirebrook North,,True,1
+E02004051,"Langwith, Shirebrook South & Pleasley",4.0,False,0
+E02004052,"Tibshelf, Newton & Hardwick Park",4.0,False,0
+E02004053,South Normanton West,,True,1
+E02004054,South Normanton Broadmeadows & Pinxton,3.0,False,0
+E02004055,Old Whittington,,True,3
+E02004056,Staveley & Norbriggs,,True,1
+E02004057,"New Whittington, Hollingwood & Barrow Hill",7.0,False,0
+E02004058,Dunston,,True,1
+E02004059,Brimington South & Tapton,3.0,False,0
+E02004060,Inkersall Green & Duckmanton,3.0,False,0
+E02004061,Newbold,3.0,False,0
+E02004062,Loundsley Green & Holme Hall,,True,2
+E02004063,Ashgate & Brockwell,6.0,False,0
+E02004064,Central Chesterfield & Stonegravels,,True,1
+E02004065,Brookside & Walton,4.0,False,0
+E02004066,Spital & Hasland,3.0,False,0
+E02004067,Boythorpe & Birdholme,3.0,False,0
+E02004068,"Hathersage, Bradwell & Tideswell",,True,3
+E02004069,"Bakewell North, Baslow & Calver",,True,2
+E02004070,"Bakewell South, Youlgreave and Taddington",,True,4
+E02004071,Darley Dale & Stanton,,True,1
+E02004072,Matlock North,7.0,False,0
+E02004073,"Matlock South, Cromford & Winster",3.0,False,0
+E02004074,Wirksworth,,True,4
+E02004075,"Ashbourne North, Dovedale & Carsington",,True,3
+E02004076,Ashbourne South,3.0,False,0
+E02004077,"Doveridge, Brailsford & Bradley",15.0,False,0
+E02004078,Cotmanhay,,True,1
+E02004080,Ilkeston Town,11.0,False,0
+E02004081,"Breadsall, Little Eaton & Stanley Common",,True,3
+E02004082,West Hallam,3.0,False,0
+E02004083,Hallam Fields & Greenwood Ave,3.0,False,0
+E02004084,Kirk Hallam,,True,3
+E02004085,Sandiacre & Stanton,6.0,False,0
+E02004086,Borrowash & Ockbrook,,True,3
+E02004087,Long Eaton North,5.0,False,0
+E02004088,Long Eaton West,,True,1
+E02004089,Long Eaton Town,,True,1
+E02004090,Breaston & Draycott,,True,1
+E02004091,Long Eaton South,,True,1
+E02004092,Sawley,,True,1
+E02004093,Hadfield East & Tintwistle,4.0,False,0
+E02004094,Hadfield West & Gamesley,5.0,False,0
+E02004095,Glossop,7.0,False,0
+E02004096,"Dinting, Simmondley & Charlesworth",7.0,False,0
+E02004097,New Mills West & Furness Vale,5.0,False,0
+E02004098,New Mills East & Hayfield,4.0,False,0
+E02004100,Whaley Bridge & Chinley,3.0,False,0
+E02004102,Buxton North,5.0,False,0
+E02004103,Buxton South & East,,True,2
+E02004104,Buxton Burbage & Harpur Hill,3.0,False,0
+E02004105,Killamarsh,7.0,False,0
+E02004106,Eckington West & Coal Aston,3.0,False,0
+E02004108,Dronfield Town & Unstone,3.0,False,0
+E02004109,Dronfield Woodhouse & Holmesfield,,True,1
+E02004110,Dronfield South & Gosforth Lane,3.0,False,0
+E02004111,Arkwright Town & Temple Normanton,,True,3
+E02004112,Wingerworth & Holymoorside,,True,2
+E02004113,Grassmoor & Holmewood,4.0,False,0
+E02004114,Ashover & New Tupton,,True,1
+E02004115,North Wingfield & Pilsley,5.0,False,0
+E02004116,Clay Cross,6.0,False,0
+E02004117,"Stonebroom, Shirland & Wessington",,True,2
+E02004118,Hatton & Burnaston,5.0,False,0
+E02004119,Hilton & Etwall,3.0,False,0
+E02004120,"Willington North, Findern & Stenson Fields",3.0,False,0
+E02004121,Aston-on-Trent & Barrow-upon-Trent,4.0,False,0
+E02004122,Willington South & Repton,,True,2
+E02004123,"Melbourne, Ticknall & Hartshorne",,True,3
+E02004124,Swadlincote North,4.0,False,0
+E02004125,Swadlincote West,12.0,False,0
+E02004126,Swadlincote Central,15.0,False,0
+E02004128,"Castle Gresley, Overseal & Coton",8.0,False,0
+E02005334,Leicester Forest East,5.0,False,0
+E02005335,Kirby Muxloe & Thurlaston,6.0,False,0
+E02005336,Thorpe Astley,6.0,False,0
+E02005337,Braunstone Town,8.0,False,0
+E02005338,Enderby & Glen Parva,12.0,False,0
+E02005339,Narborough,5.0,False,0
+E02005340,Blaby Village,6.0,False,0
+E02005341,Whetstone,9.0,False,0
+E02005342,"Cosby, Croft & Elmesthorpe",5.0,False,0
+E02005343,Countesthorpe & Kilby,5.0,False,0
+E02005344,"Stoney Stanton, Sapcote & Sharnton",6.0,False,0
+E02005345,Loughborough Dishley & Hathern,6.0,False,0
+E02005346,Loughborough Lemyngton & Hastings,16.0,False,0
+E02005347,Loughborough Storer & Queen's Park,5.0,False,0
+E02005348,Loughborough Garendon,,True,2
+E02005349,Shepshed West,9.0,False,0
+E02005350,Shepshed East,3.0,False,0
+E02005351,Loughborough - University,8.0,False,0
+E02005352,"Wymeswold, Rearsby & Cossington",,True,3
+E02005353,Loughborough - Shelthorpe & Woodthorpe,18.0,False,0
+E02005354,Loughborough - Outwoods,8.0,False,0
+E02005355,Barrow upon Soar,3.0,False,0
+E02005356,Quorn & Mountsorrel Castle,7.0,False,0
+E02005357,Sileby,6.0,False,0
+E02005358,Mountsorrel & Rothley,6.0,False,0
+E02005359,East Goscote & Queniborough,9.0,False,0
+E02005360,"Thurcaston, Woodhouse & Bradgate",,True,1
+E02005361,Syston West,,True,2
+E02005362,Syston East,,True,1
+E02005363,Birstall Wanlip & Riverside,9.0,False,0
+E02005364,Birstall Central,,True,1
+E02005365,Thurmaston,23.0,False,0
+E02005366,Anstey,5.0,False,0
+E02005368,"Tilton, Billesdon & Great Easton",,True,1
+E02005369,Kibworth & Great Glen,3.0,False,0
+E02005370,Broughton Astley,4.0,False,0
+E02005371,"Fleckney, Kilworth & Foxton",3.0,False,0
+E02005372,"Dunton Bassett, Claybrooke & Swinford",6.0,False,0
+E02005373,"Market Harborough West, Great Bowden & Lubenham",8.0,False,0
+E02005374,Market Harborough Central,,True,1
+E02005375,Market Harborough South & Little Bowden,,True,1
+E02005376,Lutterworth,4.0,False,0
+E02005377,Markfield & Thornton,3.0,False,0
+E02005378,Groby East,6.0,False,0
+E02005379,Groby West & Ratby,7.0,False,0
+E02005380,"Market Bosworth, Barlestone & Sheepy Magna",4.0,False,0
+E02005381,Desford & Newbold Verdon,,True,1
+E02005382,Earl Shilton,7.0,False,0
+E02005383,Barwell,18.0,False,0
+E02005384,"Stoke Golding, Higham & Fenny Drayton",3.0,False,0
+E02005385,Hinckley East,15.0,False,0
+E02005386,Hinckley Central,6.0,False,0
+E02005387,Hinckley West,4.0,False,0
+E02005388,Hinckley Clarendon Park,8.0,False,0
+E02005389,Burbage St Catherines,,True,2
+E02005390,Burbage Sketchley & Stretton,4.0,False,0
+E02005391,"Bottesford, Harby & Croxton Kerrial",4.0,False,0
+E02005392,Melton Mowbray North,7.0,False,0
+E02005393,"Asfordby, Frisby & Old Dalby",11.0,False,0
+E02005394,Melton Mowbray West,8.0,False,0
+E02005395,Melton Mowbray South,9.0,False,0
+E02005396,"Waltham, Wymondham & Great Dalby",4.0,False,0
+E02005397,Castle Donington,,True,2
+E02005398,Kegworth & Belton,6.0,False,0
+E02005399,Ashby de la Zouch North,5.0,False,0
+E02005400,Thringstone & Swannington,,True,1
+E02005401,"Packington, Ravenstone & Coleorton",,True,2
+E02005402,Ashby de la Zouch South,3.0,False,0
+E02005403,Whitwick,,True,1
+E02005404,Donisthope & Blackfordby,4.0,False,0
+E02005405,Agar Nook,13.0,False,0
+E02005406,Coalville,11.0,False,0
+E02005407,Hugglescote & Bardon Hill,13.0,False,0
+E02005408,Measham & Appleby Magna,,True,1
+E02005409,Ibstock & Ellistown,18.0,False,0
+E02005412,Oadby South & West,10.0,False,0
+E02005414,Wigston Town,3.0,False,0
+E02005415,South Wigston,3.0,False,0
+E02005416,Wigston Harcourt & Little Hill,8.0,False,0
+E02005417,Leake & Butterwick,3.0,False,0
+E02005418,Fenside & Lister Way,23.0,False,0
+E02005419,Boston Central & North,10.0,False,0
+E02005420,Skirbeck,4.0,False,0
+E02005422,"Swineshead, Bicker & Holland Fen",3.0,False,0
+E02005423,"Kirkton, Frampton & Algarkirk",17.0,False,0
+E02005424,"Holton-le-Clay, Binbrook & Tetney",5.0,False,0
+E02005425,"Marshchapel, Somercotes & Grimoldby",6.0,False,0
+E02005426,Louth North & East,15.0,False,0
+E02005428,Mablethorpe,7.0,False,0
+E02005429,Sutton-on-Sea,5.0,False,0
+E02005430,"Wragby, Roughton & Ludford",3.0,False,0
+E02005431,"Alford, Withern & Willoughby",3.0,False,0
+E02005432,Little Cawthorpe & South Wolds,4.0,False,0
+E02005433,Ingoldmells & Chapel St Leonards,3.0,False,0
+E02005434,Horncastle,4.0,False,0
+E02005435,Skegness North,6.0,False,0
+E02005436,Spilsby & Burgh le Marsh,4.0,False,0
+E02005437,Skegness Town,4.0,False,0
+E02005439,Coningsby & Woodhall Spa,,True,1
+E02005440,Wainfleet All Saints,9.0,False,0
+E02005441,"Mareham, Sibsey & New Leake",,True,1
+E02005442,Ermine,5.0,False,0
+E02005443,Glebe Park,6.0,False,0
+E02005444,Cathedral & West Common,9.0,False,0
+E02005445,"Monks Road, St Giles & Greetwell",,True,1
+E02005446,Wharf & University,3.0,False,0
+E02005447,Pelham Bridge & South Common,,True,1
+E02005448,Birchwood West,5.0,False,0
+E02005449,Boultham & New Boultham,,True,1
+E02005450,Hartsholme & Birchwood East,,True,1
+E02005451,Bracebridge North & Boultham Moor,3.0,False,0
+E02005452,Bracebridge South & Swallow Beck,4.0,False,0
+E02005453,Washingborough & Branston,7.0,False,0
+E02005455,"Skellingthorpe, Witham & Bassingham",4.0,False,0
+E02005456,Bracebridge Heath & Waddington,6.0,False,0
+E02005457,"Metheringham, Nocton & Potterhanworth",,True,2
+E02005458,"Navenby, Harmston & Brant Broughton",,True,4
+E02005459,Ruskington North & Billinghay,5.0,False,0
+E02005460,Ruskington West & Cranwell,,True,4
+E02005461,"Ruskington South, Leasingham & Osbournby",3.0,False,0
+E02005462,Sleaford East,5.0,False,0
+E02005463,Sleaford West,9.0,False,0
+E02005464,Heckington,13.0,False,0
+E02005465,"Donington, Quadring & Gosberton",10.0,False,0
+E02005466,"Long Sutton West, Gedney & Holbeach Hurn",7.0,False,0
+E02005467,Holbeach,7.0,False,0
+E02005468,"Moulton, Weston & Whaplode",11.0,False,0
+E02005469,Pinchbeck & Deeping St Nicholas,6.0,False,0
+E02005470,Spalding North,29.0,False,0
+E02005471,Spalding East,18.0,False,0
+E02005472,Long Sutton East & Sutton Bridge,4.0,False,0
+E02005473,Spalding South West,14.0,False,0
+E02005474,Fleet Hargate & Holbeach St Johns,3.0,False,0
+E02005475,Crowland & Cowbit,7.0,False,0
+E02005476,"Ancaster, Caythorpe & Claypole",9.0,False,0
+E02005477,"Long Bennington, Allington & Barrowby",9.0,False,0
+E02005478,Grantham North East,16.0,False,0
+E02005479,Grantham North West,20.0,False,0
+E02005480,Grantham South West,15.0,False,0
+E02005481,Grantham South East,28.0,False,0
+E02005482,"Corby Glen, Ropsley & Grantham Outskirts",14.0,False,0
+E02005483,Morton & Billingborough,12.0,False,0
+E02005484,"Harlaxton, Colsterworth & South Witham",,True,2
+E02005485,Bourne West,7.0,False,0
+E02005486,Bourne East,9.0,False,0
+E02005487,"Langtoft, Thurlby & Uffington",,True,2
+E02005488,Market Deeping,3.0,False,0
+E02005489,Deeping St James & Frognall,3.0,False,0
+E02005490,Stamford North,12.0,False,0
+E02005491,"Stamford Central, West and South",5.0,False,0
+E02005492,"Caistor, Kelsey & Keelby",12.0,False,0
+E02005493,"Morton, Blyton & Scotter",15.0,False,0
+E02005494,Market Rasen & Brookenby,3.0,False,0
+E02005495,Gainsborough West,18.0,False,0
+E02005496,Hemswell & Spital,5.0,False,0
+E02005497,Gainsborough East,13.0,False,0
+E02005498,Torksey & Stow,,True,1
+E02005499,Dunholme & Welton,6.0,False,0
+E02005500,Saxilby & Scampton,,True,1
+E02005501,"Nettleham, Sudbrooke & Scothern",,True,1
+E02005502,Cherry Willingham & Bardney,4.0,False,0
+E02005612,"Rowlett, Gretton & Cottingham",19.0,False,0
+E02005613,Corby North,43.0,False,0
+E02005614,Corby Village & Weldon,20.0,False,0
+E02005615,Corby Lodge Park,30.0,False,0
+E02005616,Corby Town,3.0,False,0
+E02005617,Corby Kingswood,14.0,False,0
+E02005619,"Clipston, Naseby & Yelvertoft",3.0,False,0
+E02005620,Broxworth & Spratton,3.0,False,0
+E02005621,Braunston & Crick,4.0,False,0
+E02005622,Long Buckby East & Ravensthorpe,,True,2
+E02005623,Walgrave & Moulton,3.0,False,0
+E02005624,Daventry North,5.0,False,0
+E02005625,Daventry Central,,True,1
+E02005626,Daventry South & Southbrook,,True,1
+E02005627,Long Buckby West & Weedon,,True,1
+E02005628,"Woodforth Halse, Byfield & Staverton",,True,2
+E02005629,"King's Cliffe, Woodnewton & Easton",4.0,False,0
+E02005630,"Oundle, Warmington & Titchmarsh",6.0,False,0
+E02005631,Thrapston & Brigstock,10.0,False,0
+E02005632,"Ringstead, Woodford & Stanwick",5.0,False,0
+E02005633,Raunds,14.0,False,0
+E02005634,Irthlingborough,8.0,False,0
+E02005635,Higham Ferrers,14.0,False,0
+E02005636,Rushden West & North,9.0,False,0
+E02005637,Rushden East,28.0,False,0
+E02005638,Rushden South,10.0,False,0
+E02005639,"Geddington, Rushton & Stoke Albany",3.0,False,0
+E02005640,Desborough,4.0,False,0
+E02005641,Rothwell,,True,1
+E02005642,Kettering Brambleside,4.0,False,0
+E02005643,Kettering Avondale Grange,9.0,False,0
+E02005644,Kettering Central East,6.0,False,0
+E02005645,Kettering Town & West,7.0,False,0
+E02005646,Kettering East,4.0,False,0
+E02005647,Kettering South,10.0,False,0
+E02005648,Barton Seagrave,,True,1
+E02005649,"Burton Latimer, Broughton & Mawsley",13.0,False,0
+E02005650,Boughton,,True,1
+E02005651,Moulton,,True,2
+E02005652,Sunnyside,5.0,False,0
+E02005653,Thorplands & Round Spinney,5.0,False,0
+E02005654,Overstone Lodge & Rectory Farm,14.0,False,0
+E02005655,Boothville & Spinney Hill,5.0,False,0
+E02005656,Blackthorn & Lings,9.0,False,0
+E02005657,Kingsthorpe,,True,1
+E02005658,St David's,5.0,False,0
+E02005659,Westone,6.0,False,0
+E02005660,Billing & Riverside,16.0,False,0
+E02005661,Eastfield,4.0,False,0
+E02005662,Phippsville,8.0,False,0
+E02005663,New Duston West,,True,3
+E02005664,Kingsley Park & Racecourse,,True,3
+E02005665,Little Billing,6.0,False,0
+E02005666,King's Heath & Spencer,,True,2
+E02005667,Lodge Farm,3.0,False,0
+E02005668,New Duston East,,True,2
+E02005669,Abington Vale,,True,1
+E02005670,Town Centre & Semilong,6.0,False,0
+E02005671,Abington,6.0,False,0
+E02005672,St Michael's Road,5.0,False,0
+E02005673,Stornton & Sixfields,4.0,False,0
+E02005674,Cliftonville & Rushmere,15.0,False,0
+E02005675,Briar Hill & Hunsbury Hill,6.0,False,0
+E02005676,Delapre,10.0,False,0
+E02005677,"Cotton End, Brackmills & Hardingstone",11.0,False,0
+E02005678,Upton & West Hunsbury,8.0,False,0
+E02005679,East Hunsbury,4.0,False,0
+E02005680,Wootton & Collingtree,4.0,False,0
+E02005681,"Harpole, Kislingbury & Bugbrooke",,True,2
+E02005682,"Cogenhoe, Hackleton & Denton",5.0,False,0
+E02005683,"Blisworth, Roade & Yardley Gobion",6.0,False,0
+E02005684,Towcester West & Blakesley,3.0,False,0
+E02005685,Towcester East & Paulerspury,,True,2
+E02005686,Middleton Cheney & Chipping Warden,,True,3
+E02005687,Silverstone & Syresham & Helmdon,3.0,False,0
+E02005688,"Deanshanger, Potterspury & Old Stratford",4.0,False,0
+E02005689,Brackley North,5.0,False,0
+E02005691,"Kings Sutton, Greatworth & Evenley",,True,4
+E02005692,"Finedon, Isham & Harrowden",3.0,False,0
+E02005693,Rixon,,True,1
+E02005694,Redwell,7.0,False,0
+E02005695,Victoria & Isebrook,,True,1
+E02005696,Queensway,7.0,False,0
+E02005697,Central Wellingborough,3.0,False,0
+E02005698,Brickhill,,True,1
+E02005699,Croyland,9.0,False,0
+E02005700,Earls Barton & Great Doddington,7.0,False,0
+E02005701,"Irchester, Wollaston & Bozeat",5.0,False,0
+E02005819,Stanton Hill & Skegby,3.0,False,0
+E02005820,The Dales & South Skegby,,True,2
+E02005821,Huthwaite,4.0,False,0
+E02005822,Sutton Forest Side & New Cross,10.0,False,0
+E02005823,Sutton Central & Leamington,4.0,False,0
+E02005824,Sutton St Mary's & Ashfields,5.0,False,0
+E02005825,East Kirkby,19.0,False,0
+E02005826,Kirkby Central,6.0,False,0
+E02005827,Kirkby Larwood & Kingsway,21.0,False,0
+E02005828,Annesley & Kirkby Woodhouse,4.0,False,0
+E02005829,Selston,10.0,False,0
+E02005830,Jacksdale & Underwoood,,True,1
+E02005831,Hucknall North & East,8.0,False,0
+E02005832,Hucknall Town,4.0,False,0
+E02005833,West Hucknall,5.0,False,0
+E02005834,Hucknall Westville,9.0,False,0
+E02005835,"Harworth, Bircotes & Blyth",7.0,False,0
+E02005836,"Clarborough, Beckingham & Misterton",6.0,False,0
+E02005837,"Ranskill, Everton & Gringley",,True,1
+E02005838,Carlton & Langold,8.0,False,0
+E02005839,Retford North,11.0,False,0
+E02005840,Worksop North,12.0,False,0
+E02005842,Retford East,9.0,False,0
+E02005843,"Worksop West, Shireoaks & Rhodesia",7.0,False,0
+E02005844,Retford South,22.0,False,0
+E02005846,Worksop Cheapside,9.0,False,0
+E02005847,Worksop Town & South,8.0,False,0
+E02005848,"Manton, Clumber & Elkesley",4.0,False,0
+E02005849,"Tuxford, Markham & Rampton",5.0,False,0
+E02005850,Eastwood Hall & Brinsley,5.0,False,0
+E02005851,Eastwood Town,13.0,False,0
+E02005852,Eastwood East,13.0,False,0
+E02005853,Kimberley North & Watnall,9.0,False,0
+E02005856,Bramcote,,True,3
+E02005857,Stapleford North,5.0,False,0
+E02005858,Beeston North,3.0,False,0
+E02005859,Stapleford South,9.0,False,0
+E02005860,Beeston Town,6.0,False,0
+E02005861,Beeston Rylands,,True,1
+E02005862,Chilwell West,,True,1
+E02005863,Attenborough & Chilwell East,6.0,False,0
+E02005864,Toton,6.0,False,0
+E02005865,Ravenshead & Newstead,,True,1
+E02005866,Calverton & Woodborough,3.0,False,0
+E02005868,Redhill,5.0,False,0
+E02005869,Arnold Town,4.0,False,0
+E02005870,Daybrook,,True,1
+E02005871,Plains Estate,9.0,False,0
+E02005872,Burton Joyce & Lambley,,True,1
+E02005873,Woodthorpe & Arno Vale,7.0,False,0
+E02005874,Mapperley & Porchester,7.0,False,0
+E02005875,Gedling North,5.0,False,0
+E02005876,Gedling South,11.0,False,0
+E02005877,Carlton Hill,4.0,False,0
+E02005878,Carlton,12.0,False,0
+E02005879,Netherfield & Colwick,3.0,False,0
+E02005880,Church Warsop & Meden Vale,5.0,False,0
+E02005881,Market Warsop,7.0,False,0
+E02005882,"Manor, Hornby & Peafields",7.0,False,0
+E02005883,Woodhouse,17.0,False,0
+E02005884,Yeoman Hill & Maun Valley,10.0,False,0
+E02005885,Abbott Road & Pleasley Hill,,True,1
+E02005886,Forest Town & Newlands,8.0,False,0
+E02005887,Mansfield Town Centre & Broomhill,14.0,False,0
+E02005888,Newgate & Carr Bank,11.0,False,0
+E02005889,Grange Farm & Ladybrook,13.0,False,0
+E02005890,Eakring & Ling Forest,4.0,False,0
+E02005891,Oak Tree & Ransom Wood,3.0,False,0
+E02005892,"King's Walk, Berry Hill & Oakham",7.0,False,0
+E02005893,Ollerton & Boughton,5.0,False,0
+E02005894,Edwinstowe & Clipstone,8.0,False,0
+E02005895,"Muskham, Sutton on Trent & Walesby",3.0,False,0
+E02005896,"Winthorpe, Coddington & Collingham",3.0,False,0
+E02005897,Blisthorpe & Farnsfield,,True,1
+E02005898,Rainworth & Blidworth,7.0,False,0
+E02005899,Newark North,9.0,False,0
+E02005900,Southwell,,True,4
+E02005901,Newark South East,12.0,False,0
+E02005902,Newark South West,25.0,False,0
+E02005903,Balderton,13.0,False,0
+E02005904,"Fernwood, Farndon & Fiskerton",8.0,False,0
+E02005905,"Lowdham, Bleasby & Gunthorpe",4.0,False,0
+E02005906,East Bridgford & Aslockton,,True,1
+E02005907,Bingham,,True,1
+E02005908,Radcliffe on Trent & Shelford,,True,2
+E02005909,Lady Bay,5.0,False,0
+E02005910,West Bridgford,,True,1
+E02005911,Gamston & Holme Pierrepoint,,True,1
+E02005912,Compton Acres & Lutterell,6.0,False,0
+E02005913,Edwalton,3.0,False,0
+E02005914,Cotgrave,,True,1
+E02005915,"Cropwell Bishop, Kinoulton & Upper Broughton",,True,5
+E02005916,Ruddington,3.0,False,0
+E02005917,"Keyworth North, Tollerton & Willoughby",4.0,False,0
+E02005918,Keyworth South,3.0,False,0
+E02005919,"Ratcliffe, Sutton Bonington & Gotham",,True,1
+E02005920,East Leake,3.0,False,0
+E02006804,Eckington East & Renishaw,3.0,False,0
+E02006815,Thurnby Lodge,10.0,False,0
+E02006816,"Houghton, Thurby & Scraptoft",12.0,False,0
+E02006817,West Knighton,8.0,False,0
+E02006818,Wigston North,8.0,False,0
+E02006819,Kirby Frith,15.0,False,0
+E02006820,Glenfield,7.0,False,0
+E02006827,Heanor South & Shipley Park,,True,1
+E02006828,Shipley,13.0,False,0
+E02006834,Top Valley East,5.0,False,0
+E02006835,Bestwood Village,,True,2
+E02006850,Leicester City South,9.0,False,0
+E02006851,Leicester City Centre,,True,1
+E02006862,Great Oakley and Danesholme,14.0,False,0
+E02006863,Snatchill,27.0,False,0
+E02006864,Fishtoft & Wyberton East,10.0,False,0
+E02006865,Wyberton West & Fen,9.0,False,0
+E02006866,North Hykeham South,8.0,False,0
+E02006867,North Hykeham North,,True,1
+E02006872,Chapel-en-le-Frith & Hope Valley,7.0,False,0
+E02006903,Worksop Kilton,7.0,False,0
+E02006904,City Centre & Trent Bridge,6.0,False,0
+E02006905,Meadows,3.0,False,0
+E02006906,"Kimberley South, Trowell & Awsworth",21.0,False,0
+E02006911,Oadby North & East,5.0,False,0
+E02006919,Swadlincote South,6.0,False,0
+E02006920,Swadlincote East,19.0,False,0
+E02005690,Brackley South,,True,1
+E02005427,Louth Central & South,6.0,False,0
+E02005438,Skegness South,6.0,False,0
