@@ -1,22 +1,22 @@
 ,% Decline from peak,Date of peak
-:ar: Argentina,5.0,2021-04-24
-:au: Australia,75.0,2020-12-23
-:br: Brazil,18.0,2021-03-27
-:ca: Canada,37.0,2021-01-09
+:ar: Argentina,0.0,2021-05-17
+:au: Australia,76.0,2020-12-23
+:br: Brazil,17.0,2021-03-27
+:ca: Canada,41.0,2021-01-09
 :cn: China,91.0,2021-01-21
 :fr: France,68.0,2021-04-17
-:de: Germany,60.0,2020-12-23
-:in: India,16.0,2021-05-08
-:id: Indonesia,71.0,2021-02-01
-:it: Italy,71.0,2020-12-01
-:jp: Japan,5.0,2021-05-14
+:de: Germany,61.0,2020-12-23
+:in: India,18.0,2021-05-08
+:id: Indonesia,72.0,2021-02-01
+:it: Italy,72.0,2020-12-01
+:jp: Japan,7.0,2021-05-14
 :mx: Mexico,87.0,2021-01-21
 :ru: Russia,70.0,2020-12-26
-:sa: Saudi Arabia,7.0,2021-04-25
+:sa: Saudi Arabia,9.0,2021-04-25
 :za: South Africa,87.0,2021-01-11
 :kr: South Korea,38.0,2020-12-25
 :tr: Turkey,80.0,2021-04-20
-:gb: UK,96.4,2021-01-04
+:gb: UK,96.7,2021-01-04
 :us: United States,87.0,2021-01-08
-:es: Spain,86.0,2021-01-26
-:il: Israel,99.6,2021-01-17
+:es: Spain,87.0,2021-01-26
+:il: Israel,99.7,2021-01-17
