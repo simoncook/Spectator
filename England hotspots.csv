@@ -1,18 +1,18 @@
 areaName,Cases per 100k population
-Bolton,274.7
-Bedford,122.3
-Blackburn with Darwen,117.6
-Erewash,113.5
-Derry City and Strabane,99.2
-Glasgow City,90.0
-Moray,68.9
-East Renfrewshire,68.0
-Kirklees,67.3
-Hounslow,56.7
-Selby,53.0
-Melton,52.7
-Burnley,50.6
-Sheffield,49.9
-Causeway Coast and Glens,49.0
+:gb-eng: Bolton,274.7
+:gb-eng: Bedford,122.3
+:gb-eng: Blackburn with Darwen,117.6
+:gb-eng: Erewash,113.5
+:gb-nir: Derry City and Strabane,99.2
+:gb-sct: Glasgow City,90.0
+:gb-sct: Moray,68.9
+:gb-sct: East Renfrewshire,68.0
+:gb-eng: Kirklees,67.3
+:gb-eng: Hounslow,56.7
+:gb-eng: Selby,53.0
+:gb-eng: Melton,52.7
+:gb-eng: Burnley,50.6
+:gb-eng: Sheffield,49.9
+:gb-nir: Causeway Coast and Glens,49.0
 England,23.0
 Scotland,31.5
