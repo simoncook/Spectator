@@ -14,7 +14,7 @@ areaName,Cases per 100k population
 :gb-eng: Burnley,50.6
 :gb-eng: Sheffield,49.9
 :gb-nir: Causeway Coast and Glens,49.0
-England,23.0
-Scotland,31.5
-Wales,10.5
-Northern Ireland,35.2
+:gb-eng: England,23.0
+:gb-sct: Scotland,31.5
+:gb-wls: Wales,10.5
+:gb-nir: Northern Ireland,35.2
