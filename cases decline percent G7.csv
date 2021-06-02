@@ -1,9 +1,9 @@
-,% Decline from peak,Date of peak
-:ca: Canada,69.0,2021-01-09
-:eu: European Union,79.0,2021-03-31
-:fr: France,81.0,2021-04-17
-:de: Germany,83.0,2020-12-23
-:it: Italy,86.0,2020-12-01
-:jp: Japan,46.0,2021-05-14
-:gb: UK,94.7,2021-01-04
-:us: United States,93.0,2021-01-08
+,% Decline from peak,Date of peak,Cases per million
+:ca: Canada,72.0,2021-01-09,43.744
+:eu: European Union,80.0,2021-03-31,68.887
+:fr: France,79.0,2021-04-17,145.832
+:de: Germany,83.0,2020-12-23,35.651
+:it: Italy,86.0,2020-12-01,41.067
+:jp: Japan,49.0,2021-05-14,20.881
+:gb: UK,94.7,2021-01-04,45.694
+:us: United States,93.0,2021-01-08,68.567
