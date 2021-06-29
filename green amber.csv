@@ -1,36 +1,36 @@
 ,Total cases per million,list colour
-:au: Australia,0.9691428571428571,green
+:au: Australia,1.0868571428571427,green
 :bn: Brunei,1.3061428571428573,green
 :is: Iceland,0.0,green
-:il: Israel,16.851285714285716,green
-:nz: New Zealand,0.5332857142857143,green
-:sg: Singapore,3.1744285714285714,green
-:ad: Andorra,73.957,amber
+:il: Israel,19.904714285714284,green
+:nz: New Zealand,0.6221428571428572,green
+:sg: Singapore,3.0034285714285716,green
+:ad: Andorra,33.28057142857143,amber
 :ag: Antigua and Barbuda,0.0,amber
-:at: Austria,10.865285714285715,amber
-:bs: Bahamas,62.483285714285714,amber
+:at: Austria,10.373571428571427,amber
+:bs: Bahamas,37.41728571428571,amber
 :bb: Barbados,15.907714285714286,amber
-:kh: Cambodia,42.193285714285715,amber
-:ca: Canada,16.669428571428572,amber
-:hr: Croatia,16.66842857142857,amber
-:cy: Cyprus,186.25757142857145,amber
+:kh: Cambodia,43.457857142857144,amber
+:ca: Canada,16.877714285714287,amber
+:hr: Croatia,16.77285714285714,amber
+:cy: Cyprus,226.54271428571428,amber
 :cz: Czechia,11.539,amber
 :dk: Denmark,32.01342857142857,amber
-:do: Dominican Republic,78.89614285714286,amber
-:fr: France,27.241857142857146,amber
-:de: Germany,7.439142857142857,amber
-:gr: Greece,35.128142857142855,amber
+:do: Dominican Republic,79.08042857142857,amber
+:fr: France,27.288285714285713,amber
+:de: Germany,7.18,amber
+:gr: Greece,37.25257142857142,amber
 :hk: Hong Kong,0.5907142857142856,amber
-:it: Italy,12.03357142857143,amber
-:my: Malaysia,166.13557142857144,amber
-:mt: Malta,5.500285714285715,amber
-:mx: Mexico,31.587857142857143,amber
-:ma: Morocco,11.707857142857142,amber
-:nl: Netherlands,36.367,amber
-:pl: Poland,3.287714285714286,amber
-:pt: Portugal,133.05414285714286,amber
-:es: Spain,76.45057142857142,amber
-:ch: Switzerland,14.525714285714287,amber
-:th: Thailand,53.86,amber
-:us: United States,35.863285714285716,amber
-:gb: UK,215.85771428571428,
+:it: Italy,11.804428571428572,amber
+:my: Malaysia,168.81471428571427,amber
+:mt: Malta,7.118,amber
+:mx: Mexico,32.02328571428571,amber
+:ma: Morocco,12.22257142857143,amber
+:nl: Netherlands,36.38357142857143,amber
+:pl: Poland,3.2047142857142856,amber
+:pt: Portugal,135.09957142857144,amber
+:es: Spain,85.52528571428572,amber
+:ch: Switzerland,12.412857142857144,amber
+:th: Thailand,58.42614285714286,amber
+:us: United States,37.21071428571429,amber
+:gb: UK,241.6467142857143,
