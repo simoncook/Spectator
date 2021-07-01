@@ -1,13 +1,13 @@
 areaName,Cases per 100k population
-:gb-sct: East Lothian,551.9
-:gb-eng: Hyndburn,539.2
-:gb-sct: Dundee City,522.4
-:gb-eng: Blackburn with Darwen,493.7
-:gb-sct: Midlothian,466.1
-:gb-sct: City of Edinburgh,448.1
-:gb-eng: Manchester,430.5
-:gb-eng: Burnley,419.5
-:gb-eng: England,128.7
-:gb-sct: Scotland,258.9
-:gb-wls: Wales,59.3
-:gb-nir: Northern Ireland,64.2
+:gb-sct: Dundee City,661.0
+:gb-sct: East Lothian,623.8
+:gb-eng: Hyndburn,572.5
+:gb-sct: Midlothian,566.7
+:gb-sct: City of Edinburgh,544.3
+:gb-eng: Blackburn with Darwen,490.3
+:gb-eng: Rossendale,453.3
+:gb-eng: Manchester,452.7
+:gb-eng: England,149.0
+:gb-sct: Scotland,317.4
+:gb-wls: Wales,71.8
+:gb-nir: Northern Ireland,73.1
