@@ -1,13 +1,13 @@
 areaName,Cases per 100k population
-:gb-sct: Dundee City,862.6
-:gb-sct: Midlothian,706.3
-:gb-eng: Newcastle upon Tyne,664.4
-:gb-eng: Tamworth,659.7
-:gb-sct: East Lothian,616.3
-:gb-eng: Rossendale,604.3
-:gb-eng: South Tyneside,603.4
-:gb-sct: City of Edinburgh,603.1
-:gb-eng: England,223.8
-:gb-sct: Scotland,405.9
-:gb-wls: Wales,103.2
-:gb-nir: Northern Ireland,112.9
+:gb-sct: Dundee City,881.3
+:gb-eng: Tamworth,734.1
+:gb-sct: Midlothian,719.2
+:gb-eng: Newcastle upon Tyne,712.0
+:gb-eng: South Tyneside,690.2
+:gb-eng: Gateshead,629.5
+:gb-eng: Oxford,629.0
+:gb-eng: Rossendale,621.1
+:gb-eng: England,239.3
+:gb-sct: Scotland,414.9
+:gb-wls: Wales,110.7
+:gb-nir: Northern Ireland,123.6
