@@ -1,13 +1,13 @@
 areaName,Cases per 100k population
-:gb-nir: Belfast,672.1
-:gb-eng: Middlesbrough,617.8
-:gb-eng: Lincoln,568.0
-:gb-eng: Blackpool,548.6
-":gb-nir: Newry, Mourne and Down",535.4
-:gb-nir: Mid Ulster,533.9
-:gb-eng: Redcar and Cleveland,532.3
-:gb-nir: Derry City and Strabane,530.8
-:gb-eng: England,296.6
-:gb-sct: Scotland,156.4
-:gb-wls: Wales,152.9
-:gb-nir: Northern Ireland,486.7
+:gb-eng: Lincoln,653.6
+:gb-nir: Belfast,650.0
+:gb-eng: Middlesbrough,573.1
+:gb-nir: Derry City and Strabane,542.0
+:gb-nir: Mid Ulster,522.5
+":gb-nir: Newry, Mourne and Down",522.1
+:gb-eng: Blackpool,515.6
+:gb-eng: Exeter,504.5
+:gb-eng: England,292.4
+:gb-sct: Scotland,152.7
+:gb-wls: Wales,148.8
+:gb-nir: Northern Ireland,479.8
