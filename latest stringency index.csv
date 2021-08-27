@@ -1,8 +1,8 @@
 country_name,Stringency Index
 Australia,68.06
-Austria,56.02
+Austria,56.94
 Belgium,47.22
-Canada,60.65
+Canada,69.91
 Switzerland,44.44
 Chile,78.7
 Colombia,51.39
@@ -11,7 +11,7 @@ Germany,56.48
 Denmark,38.89
 Spain,47.69
 Estonia,23.15
-Finland,39.81
+Finland,38.43
 France,66.67
 United Kingdom,43.98
 Greece,54.17
@@ -30,7 +30,7 @@ Netherlands,36.11
 Norway,38.89
 New Zealand,96.3
 Poland,27.78
-Portugal,58.33
+Portugal,52.78
 Slovak Republic,43.98
 Slovenia,29.63
 Sweden,37.04
