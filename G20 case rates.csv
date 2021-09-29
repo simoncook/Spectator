@@ -1,25 +1,26 @@
 ,Cases per million
 :ar: Argentina,33.0
-:au: Australia,67.6
-:br: Brazil,79.3
-:ca: Canada,114.6
+:au: Australia,68.4
+:br: Brazil,89.9
+:ca: Canada,113.8
 :cn: China,0.0
-:eu: European Union,102.9
-:fr: France,88.1
-:de: Germany,91.8
-:in: India,19.8
-:id: Indonesia,8.6
-:it: Italy,55.8
-:jp: Japan,18.9
-:mx: Mexico,68.8
-:ru: Russia,142.4
-:sa: Saudi Arabia,1.5
-:za: South Africa,31.9
-:kr: South Korea,46.2
-:es: Spain,49.2
-:tr: Turkey,322.1
-:gb: UK,496.8
-:us: United States,352.1
-:gb-eng: England,419.08970204104133
-:gb-nir: Northern Ireland,568.8132375665083
-:gb-sct: Scotland,456.7882833766091
+:eu: European Union,103.9
+:fr: France,84.9
+:de: Germany,92.1
+:in: India,19.0
+:id: Indonesia,8.0
+:it: Italy,54.8
+:jp: Japan,18.8
+:mx: Mexico,65.8
+:ru: Russia,144.6
+:sa: Saudi Arabia,1.4
+:za: South Africa,29.9
+:kr: South Korea,49.4
+:es: Spain,48.7
+:tr: Turkey,321.3
+:gb: UK,504.5
+:us: United States,347.8
+:gb-eng: England,412.7497409467278
+:gb-nir: Northern Ireland,575.8291037593048
+:gb-sct: Scotland,436.2094077101491
+:gb-wls: Wales,632.6190851508823
